@@ -1,7 +1,42 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
+  "cli": {
+    "analytics": "10bb4e36-3de2-48f2-abb6-5cd6a177ca5e"
+  },
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-  }
+    "ionic-emoji": {
+      "projectType": "library",
+      "root": "projects/ionic-emoji",
+      "sourceRoot": "projects/ionic-emoji/src",
+      "prefix": "lib",
+      "architect": {
+        "build": {
+          "builder": "@angular-devkit/build-angular:ng-packagr",
+          "options": {
+            "project": "projects/ionic-emoji/ng-package.json"
+          },
+          "configurations": {
+            "production": {
+              "tsConfig": "projects/ionic-emoji/tsconfig.lib.prod.json"
+            },
+            "development": {
+              "tsConfig": "projects/ionic-emoji/tsconfig.lib.json"
+            }
+          },
+          "defaultConfiguration": "production"
+        },
+        "test": {
+          "builder": "@angular-devkit/build-angular:karma",
+          "options": {
+            "main": "projects/ionic-emoji/src/test.ts",
+            "tsConfig": "projects/ionic-emoji/tsconfig.spec.json",
+            "karmaConfig": "projects/ionic-emoji/karma.conf.js"
+          }
+        }
+      }
+    }
+  },
+  "defaultProject": "ionic-emoji"
 }

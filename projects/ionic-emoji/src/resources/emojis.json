@@ -1,0 +1,325 @@
+[
+    {
+        "categoryName": "Smileys &amp; Emotion",
+        "subCategories": [
+            {
+                "subCategoryName": "Smiling face",
+                "items": [
+                    {
+                        "symbol": "\ud83d\ude00",
+                        "title": "Grinning Face",
+                        "url": "\/en\/1F600\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/4f\/070ccbbb696c2975bb0da521c2ffc5.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F600",
+                        "html_code": "&#128512;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😀"
+                    },
+                    {
+                        "symbol": "\ud83d\ude09",
+                        "title": "Winking Face",
+                        "url": "\/en\/1F609\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/55\/ceb7ce388c8b07ffa8495e9d8905bd.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F609",
+                        "html_code": "&#128521;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😉"
+                    },
+                    {
+                        "symbol": "\ud83d\ude01",
+                        "title": "Grinning Face with Smiling Eyes",
+                        "url": "\/en\/1F601\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/1a\/b6f1ba1292b0d88ce13878dc78baa0.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F601",
+                        "html_code": "&#128513;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😁"
+                    },
+                    {
+                        "symbol": "\ud83d\ude06",
+                        "title": "Smiling Face with Open Mouth and Tightly-Closed Eyes",
+                        "url": "\/en\/1F606\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/12\/137f64131d69f3d605077ae5feb986.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F606",
+                        "html_code": "&#128518;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😆"
+                    },
+                    {
+                        "symbol": "\ud83d\ude05",
+                        "title": "Smiling Face with Open Mouth and Cold Sweat",
+                        "url": "\/en\/1F605\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/54\/18c893827bb3ca5e17b44ee148ffc8.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F605",
+                        "html_code": "&#128517;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😅"
+                    },
+                    {
+                        "symbol": "\ud83d\ude02",
+                        "title": "Face with Tears of Joy",
+                        "url": "\/en\/1F602\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/aa\/65a9b30bfe34eb40cece7066291bbe.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F602",
+                        "html_code": "&#128514;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😂"
+                    },
+                    {
+                        "symbol": "\ud83e\udd23",
+                        "title": "Rolling On The Floor Laughing",
+                        "url": "\/en\/1F923\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/a8\/3037f0389addfe580a391599c85f1b.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F923",
+                        "html_code": "&#129315;",
+                        "css_class": "u1f800",
+                        "data-symbol": "🤣"
+                    },
+                    {
+                        "symbol": "\ud83d\ude0a",
+                        "title": "Smiling Face with Smiling Eyes",
+                        "url": "\/en\/1F60A\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/70\/10eac5870a09f5c95a95fd4da4afd5.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F60A",
+                        "html_code": "&#128522;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😊"
+                    },
+                    {
+                        "symbol": "\ud83d\ude42",
+                        "title": "Slightly Smiling Face",
+                        "url": "\/en\/1F642\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/b5\/6dc44b1241307361edda859bf10548.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F642",
+                        "html_code": "&#128578;",
+                        "css_class": "u1f400",
+                        "data-symbol": "🙂"
+                    },
+                    {
+                        "symbol": "\ud83d\ude04",
+                        "title": "Smiling Face with Open Mouth and Smiling Eyes",
+                        "url": "\/en\/1F604\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/b7\/9f24464ae2bd8fcc5fda823f02469d.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F604",
+                        "html_code": "&#128516;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😄"
+                    },
+                    {
+                        "symbol": "\ud83d\ude43",
+                        "title": "Upside-Down Face",
+                        "url": "\/en\/1F643\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/c1\/9a4b5216a288ab979ac04d08856edd.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F643",
+                        "html_code": "&#128579;",
+                        "css_class": "u1f400",
+                        "data-symbol": "🙃"
+                    },
+                    {
+                        "symbol": "\ud83d\ude07",
+                        "title": "Smiling Face with Halo",
+                        "url": "\/en\/1F607\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/2e\/2f586e290f73437afa0bdd6067368b.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F607",
+                        "html_code": "&#128519;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😇"
+                    },
+                    {
+                        "symbol": "\ud83d\ude03",
+                        "title": "Smiling Face with Open Mouth",
+                        "url": "\/en\/1F603\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/80\/4139df052e66413dcb2ef0b64d1bdd.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F603",
+                        "html_code": "&#128515;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😃"
+                    }
+                ]
+            },
+            {
+                "subCategoryName": "Amorous face (affection)",
+                "items": [
+                    {
+                        "symbol": "\ud83d\ude1a",
+                        "title": "Kissing Face with Closed Eyes",
+                        "url": "\/en\/1F61A\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/66\/402e690a1bd54de348fee6a291fcc5.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F61A",
+                        "html_code": "&#128538;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😚"
+                    },
+                    {
+                        "symbol": "\ud83e\udd70",
+                        "title": "Smiling Face with Smiling Eyes and Three Hearts",
+                        "url": "\/en\/1F970\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/d3\/ab99ac0c75836dedbd9f16fe7112cb.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F970",
+                        "html_code": "&#129392;",
+                        "css_class": "u1f800",
+                        "data-symbol": "🥰"
+                    },
+                    {
+                        "symbol": "\ud83d\ude19",
+                        "title": "Kissing Face with Smiling Eyes",
+                        "url": "\/en\/1F619\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/d5\/5fc76a82f547cacd45de26482a33f2.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F619",
+                        "html_code": "&#128537;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😙"
+                    },
+                    {
+                        "symbol": "\u263a",
+                        "title": "White Smiling Face",
+                        "url": "\/en\/263A\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/f5\/99821614795914dc5dcdfc6c4cd78b.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols",
+                            "url": "\/en\/blocks\/miscellaneous-symbols\/"
+                        },
+                        "number": "U+263A",
+                        "html_code": "&#9786;",
+                        "css_class": "u2400",
+                        "data-symbol": "☺"
+                    },
+                    {
+                        "symbol": "\ud83d\ude0d",
+                        "title": "Smiling Face with Heart-Shaped Eyes",
+                        "url": "\/en\/1F60D\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/27\/f2d2f72f7e79b792bcb6f1019253ba.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F60D",
+                        "html_code": "&#128525;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😍"
+                    },
+                    {
+                        "symbol": "\ud83d\ude17",
+                        "title": "Kissing Face",
+                        "url": "\/en\/1F617\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/2e\/43282373ab27334d859067cfef34b8.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F617",
+                        "html_code": "&#128535;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😗"
+                    },
+                    {
+                        "symbol": "\ud83e\udd72",
+                        "title": "Smiling Face With Tear",
+                        "url": "\/en\/1F972\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/e0\/04dd02211c85a91dab2431e712dc06.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F972",
+                        "html_code": "&#129394;",
+                        "css_class": "u1f800",
+                        "data-symbol": "🥲"
+                    },
+                    {
+                        "symbol": "\ud83d\ude18",
+                        "title": "Face Throwing a Kiss",
+                        "url": "\/en\/1F618\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/9d\/645adeb0650aca796491495ac92526.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F618",
+                        "html_code": "&#128536;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😘"
+                    },
+                    {
+                        "symbol": "\ud83e\udd29",
+                        "title": "Grinning Face With Star Eyes",
+                        "url": "\/en\/1F929\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/12\/891eca811472a9587327f1ea5696fd.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F929",
+                        "html_code": "&#129321;",
+                        "css_class": "u1f800",
+                        "data-symbol": "🤩"
+                    }
+                ]
+            }
+        ]
+    }
+]

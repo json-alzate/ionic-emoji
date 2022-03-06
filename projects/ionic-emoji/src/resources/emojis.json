@@ -1695,6 +1695,487 @@
                         "data-symbol": "🙈"
                     }
                 ]
+            },
+            {
+                "subCategoryName": "Emotion",
+                "items": [
+                    {
+                        "symbol": "\ud83d\uddef",
+                        "title": "Right Anger Bubble",
+                        "url": "\/en\/1F5EF\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/7d\/8fe21fff946c00ad52cc63eaf9bb0f.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F5EF",
+                        "html_code": "&#128495;",
+                        "css_class": "u1f400",
+                        "data-symbol": "🗯"
+                    },
+                    {
+                        "symbol": "\ud83d\udd73",
+                        "title": "Hole",
+                        "url": "\/en\/1F573\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/c3\/47eb025939f653b6068031c6ffefa4.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F573",
+                        "html_code": "&#128371;",
+                        "css_class": "u1f400",
+                        "data-symbol": "🕳"
+                    },
+                    {
+                        "symbol": "\ud83d\udde8",
+                        "title": "Left Speech Bubble",
+                        "url": "\/en\/1F5E8\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/42\/79ab93510192997c5578f9eadf57ef.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F5E8",
+                        "html_code": "&#128488;",
+                        "css_class": "u1f400",
+                        "data-symbol": "🗨"
+                    },
+                    {
+                        "symbol": "\ud83e\udde1",
+                        "title": "Orange Heart",
+                        "url": "\/en\/1F9E1\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/d2\/5378313bcce5b15240f6847adec924.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F9E1",
+                        "html_code": "&#129505;",
+                        "css_class": "u1f800",
+                        "data-symbol": "🧡"
+                    },
+                    {
+                        "symbol": "\ud83d\udc9f",
+                        "title": "Heart Decoration",
+                        "url": "\/en\/1F49F\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/9c\/444835154725c14d5ad07ae9f3342b.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F49F",
+                        "html_code": "&#128159;",
+                        "css_class": "u1f400",
+                        "data-symbol": "💟"
+                    },
+                    {
+                        "symbol": "\ud83d\udcad",
+                        "title": "Thought Balloon",
+                        "url": "\/en\/1F4AD\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/3b\/b44569c1af4a97c19187a449186ca1.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F4AD",
+                        "html_code": "&#128173;",
+                        "css_class": "u1f400",
+                        "data-symbol": "💭"
+                    },
+                    {
+                        "symbol": "\ud83e\udd0e",
+                        "title": "Brown Heart",
+                        "url": "\/en\/1F90E\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/ed\/e3740ae3702d8c1c95396087d7241d.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F90E",
+                        "html_code": "&#129294;",
+                        "css_class": "u1f800",
+                        "data-symbol": "🤎"
+                    },
+                    {
+                        "symbol": "\ud83d\udc9e",
+                        "title": "Revolving Hearts",
+                        "url": "\/en\/1F49E\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/e3\/b37355bde0ced9afd8405d3038d769.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F49E",
+                        "html_code": "&#128158;",
+                        "css_class": "u1f400",
+                        "data-symbol": "💞"
+                    },
+                    {
+                        "symbol": "\ud83e\udd0d",
+                        "title": "White Heart",
+                        "url": "\/en\/1F90D\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/03\/e1631e02b63474d6d6895a1a584228.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F90D",
+                        "html_code": "&#129293;",
+                        "css_class": "u1f800",
+                        "data-symbol": "🤍"
+                    },
+                    {
+                        "symbol": "\ud83d\udc8c",
+                        "title": "Love Letter",
+                        "url": "\/en\/1F48C\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/36\/b8f66b3c5ee285e001ba596e1f2b7d.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F48C",
+                        "html_code": "&#128140;",
+                        "css_class": "u1f400",
+                        "data-symbol": "💌"
+                    },
+                    {
+                        "symbol": "\ud83d\udda4",
+                        "title": "Black Heart",
+                        "url": "\/en\/1F5A4\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/28\/f8dffff847bd84dd2c4582d7703a2c.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F5A4",
+                        "html_code": "&#128420;",
+                        "css_class": "u1f400",
+                        "data-symbol": "🖤"
+                    },
+                    {
+                        "symbol": "\ud83d\udca2",
+                        "title": "Anger Symbol",
+                        "url": "\/en\/1F4A2\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/40\/8f637c02fe88dec5914d02b9c052d9.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F4A2",
+                        "html_code": "&#128162;",
+                        "css_class": "u1f400",
+                        "data-symbol": "💢"
+                    },
+                    {
+                        "symbol": "\ud83d\udc93",
+                        "title": "Beating Heart",
+                        "url": "\/en\/1F493\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/91\/8618ecb3797167e71164dfb5cad5d7.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F493",
+                        "html_code": "&#128147;",
+                        "css_class": "u1f400",
+                        "data-symbol": "💓"
+                    },
+                    {
+                        "symbol": "\ud83d\udcaf",
+                        "title": "Hundred Points Symbol",
+                        "url": "\/en\/1F4AF\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/78\/4c77a8fb21eeb70940ce079977345c.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F4AF",
+                        "html_code": "&#128175;",
+                        "css_class": "u1f400",
+                        "data-symbol": "💯"
+                    },
+                    {
+                        "symbol": "\ud83d\udc95",
+                        "title": "Two Hearts",
+                        "url": "\/en\/1F495\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/a0\/a9e4495388581794029bc3bec12182.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F495",
+                        "html_code": "&#128149;",
+                        "css_class": "u1f400",
+                        "data-symbol": "💕"
+                    },
+                    {
+                        "symbol": "\ud83d\udc8b",
+                        "title": "Kiss Mark",
+                        "url": "\/en\/1F48B\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/fd\/dd5b841cf3eac8cbaa636a586f3c19.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F48B",
+                        "html_code": "&#128139;",
+                        "css_class": "u1f400",
+                        "data-symbol": "💋"
+                    },
+                    {
+                        "symbol": "\ud83d\udca8",
+                        "title": "Dash Symbol",
+                        "url": "\/en\/1F4A8\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/ca\/c1293a7775af27c7b61dc720b82313.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F4A8",
+                        "html_code": "&#128168;",
+                        "css_class": "u1f400",
+                        "data-symbol": "💨"
+                    },
+                    {
+                        "symbol": "\ud83d\udca6",
+                        "title": "Splashing Sweat Symbol",
+                        "url": "\/en\/1F4A6\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/44\/9079876600a9e3de1b0cb7c4d82fc4.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F4A6",
+                        "html_code": "&#128166;",
+                        "css_class": "u1f400",
+                        "data-symbol": "💦"
+                    },
+                    {
+                        "symbol": "\ud83d\udcab",
+                        "title": "Dizzy Symbol",
+                        "url": "\/en\/1F4AB\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/20\/d45ac026c437c9b9bc17eea764c631.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F4AB",
+                        "html_code": "&#128171;",
+                        "css_class": "u1f400",
+                        "data-symbol": "💫"
+                    },
+                    {
+                        "symbol": "\ud83d\udc97",
+                        "title": "Growing Heart",
+                        "url": "\/en\/1F497\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/4f\/d395de54c88107db9a8502b9d75951.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F497",
+                        "html_code": "&#128151;",
+                        "css_class": "u1f400",
+                        "data-symbol": "💗"
+                    },
+                    {
+                        "symbol": "\ud83d\udc94",
+                        "title": "Broken Heart",
+                        "url": "\/en\/1F494\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/83\/a99be950a8b11427dbe097e0e1f6c2.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F494",
+                        "html_code": "&#128148;",
+                        "css_class": "u1f400",
+                        "data-symbol": "💔"
+                    },
+                    {
+                        "symbol": "\ud83d\udc98",
+                        "title": "Heart with Arrow",
+                        "url": "\/en\/1F498\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/29\/ec43ad26487fa68b54bfe749447ac6.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F498",
+                        "html_code": "&#128152;",
+                        "css_class": "u1f400",
+                        "data-symbol": "💘"
+                    },
+                    {
+                        "symbol": "\ud83d\udc9a",
+                        "title": "Green Heart",
+                        "url": "\/en\/1F49A\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/ba\/3e73d109f3159487ebe0f25be13314.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F49A",
+                        "html_code": "&#128154;",
+                        "css_class": "u1f400",
+                        "data-symbol": "💚"
+                    },
+                    {
+                        "symbol": "\ud83d\udc99",
+                        "title": "Blue Heart",
+                        "url": "\/en\/1F499\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/69\/8620de0f9f586e3bd6670bc0612bf1.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F499",
+                        "html_code": "&#128153;",
+                        "css_class": "u1f400",
+                        "data-symbol": "💙"
+                    },
+                    {
+                        "symbol": "\ud83d\udc9c",
+                        "title": "Purple Heart",
+                        "url": "\/en\/1F49C\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/c9\/2b1705f353f6aa39c3ce8af75c0d53.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F49C",
+                        "html_code": "&#128156;",
+                        "css_class": "u1f400",
+                        "data-symbol": "💜"
+                    },
+                    {
+                        "symbol": "\ud83d\udc9b",
+                        "title": "Yellow Heart",
+                        "url": "\/en\/1F49B\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/6c\/7234b076d4bae3fc6f22d4f52ce728.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F49B",
+                        "html_code": "&#128155;",
+                        "css_class": "u1f400",
+                        "data-symbol": "💛"
+                    },
+                    {
+                        "symbol": "\ud83d\udca5",
+                        "title": "Collision Symbol",
+                        "url": "\/en\/1F4A5\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/24\/b22fc9ff21f92959f8feb44c990e55.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F4A5",
+                        "html_code": "&#128165;",
+                        "css_class": "u1f400",
+                        "data-symbol": "💥"
+                    },
+                    {
+                        "symbol": "\ud83d\udc96",
+                        "title": "Sparkling Heart",
+                        "url": "\/en\/1F496\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/63\/fb6a46a085c9b2973702846821b311.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F496",
+                        "html_code": "&#128150;",
+                        "css_class": "u1f400",
+                        "data-symbol": "💖"
+                    },
+                    {
+                        "symbol": "\ud83d\udcac",
+                        "title": "Speech Balloon",
+                        "url": "\/en\/1F4AC\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/f5\/f53d2db3262d9950d1e0fb1b74244d.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F4AC",
+                        "html_code": "&#128172;",
+                        "css_class": "u1f400",
+                        "data-symbol": "💬"
+                    },
+                    {
+                        "symbol": "\ud83d\udca3",
+                        "title": "Bomb",
+                        "url": "\/en\/1F4A3\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/e0\/30efeafa7c5687f00d569b904f93c7.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F4A3",
+                        "html_code": "&#128163;",
+                        "css_class": "u1f400",
+                        "data-symbol": "💣"
+                    },
+                    {
+                        "symbol": "\ud83d\udca4",
+                        "title": "Sleeping Symbol",
+                        "url": "\/en\/1F4A4\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/d3\/cc21dfc9d3fa563c43acf018339f92.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F4A4",
+                        "html_code": "&#128164;",
+                        "css_class": "u1f400",
+                        "data-symbol": "💤"
+                    },
+                    {
+                        "symbol": "\u2764",
+                        "title": "Black Heart Symbol",
+                        "url": "\/en\/2764\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/27\/1e06f228074c5021ac9ed7f536f6ac.png",
+                        "block": {
+                            "title": "Dingbats",
+                            "url": "\/en\/blocks\/dingbats\/"
+                        },
+                        "number": "U+2764",
+                        "html_code": "&#10084;",
+                        "css_class": "u2400",
+                        "data-symbol": "❤"
+                    },
+                    {
+                        "symbol": "\u2763",
+                        "title": "Heavy Heart Exclamation Mark Ornament",
+                        "url": "\/en\/2763\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/00\/2dcb39816468ac2d852c9c8ffb7f3c.png",
+                        "block": {
+                            "title": "Dingbats",
+                            "url": "\/en\/blocks\/dingbats\/"
+                        },
+                        "number": "U+2763",
+                        "html_code": "&#10083;",
+                        "css_class": "u2400",
+                        "data-symbol": "❣"
+                    },
+                    {
+                        "symbol": "\ud83d\udc9d",
+                        "title": "Heart with Ribbon",
+                        "url": "\/en\/1F49D\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/ce\/7e8f2c0d9bada62e342132ce5a17af.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F49D",
+                        "html_code": "&#128157;",
+                        "css_class": "u1f400",
+                        "data-symbol": "💝"
+                    }
+                ]
             }
         ]
     }

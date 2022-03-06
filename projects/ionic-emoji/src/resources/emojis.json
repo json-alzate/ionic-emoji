@@ -319,6 +319,1382 @@
                         "data-symbol": "🤩"
                     }
                 ]
+            },
+            {
+                "subCategoryName": "Face with tongue",
+                "items": [
+                    {
+                        "symbol": "\ud83d\ude0b",
+                        "title": "Face Savouring Delicious Food",
+                        "url": "\/en\/1F60B\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/03\/c7ad15c0277cdcdc7b7fa6dd26d595.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F60B",
+                        "html_code": "&#128523;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😋"
+                    },
+                    {
+                        "symbol": "\ud83d\ude1b",
+                        "title": "Face with Stuck-Out Tongue",
+                        "url": "\/en\/1F61B\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/02\/4cde61f75c6c5d8bc9032325318aa1.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F61B",
+                        "html_code": "&#128539;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😛"
+                    },
+                    {
+                        "symbol": "\ud83d\ude1c",
+                        "title": "Face with Stuck-Out Tongue and Winking Eye",
+                        "url": "\/en\/1F61C\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/66\/cc21fea16b311a56205b92420167b3.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F61C",
+                        "html_code": "&#128540;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😜"
+                    },
+                    {
+                        "symbol": "\ud83e\udd2a",
+                        "title": "Grinning Face With One Large And One Small Eye",
+                        "url": "\/en\/1F92A\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/61\/2838d779cf19f763baf9a4168de979.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F92A",
+                        "html_code": "&#129322;",
+                        "css_class": "u1f800",
+                        "data-symbol": "🤪"
+                    },
+                    {
+                        "symbol": "\ud83d\ude1d",
+                        "title": "Face with Stuck-Out Tongue and Tightly-Closed Eyes",
+                        "url": "\/en\/1F61D\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/9a\/7222cefcd61dcb8cf682884c0a0abf.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F61D",
+                        "html_code": "&#128541;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😝"
+                    },
+                    {
+                        "symbol": "\ud83e\udd11",
+                        "title": "Money-Mouth Face",
+                        "url": "\/en\/1F911\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/f9\/e9f230626d937205ea41b347e9f695.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F911",
+                        "html_code": "&#129297;",
+                        "css_class": "u1f800",
+                        "data-symbol": "🤑"
+                    }
+                ]
+            },
+            {
+                "subCategoryName": "Face with hand",
+                "items": [
+                    {
+                        "symbol": "\ud83e\udd14",
+                        "title": "Thinking Face",
+                        "url": "\/en\/1F914\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/c1\/3016642e7e6e385ae4e6e8241f3c05.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F914",
+                        "html_code": "&#129300;",
+                        "css_class": "u1f800",
+                        "data-symbol": "🤔"
+                    },
+                    {
+                        "symbol": "\ud83e\udd2d",
+                        "title": "Smiling Face With Smiling Eyes And Hand Covering Mouth",
+                        "url": "\/en\/1F92D\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/64\/b8623935853db1dda72d72c29e7a3e.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F92D",
+                        "html_code": "&#129325;",
+                        "css_class": "u1f800",
+                        "data-symbol": "🤭"
+                    },
+                    {
+                        "symbol": "\ud83e\udd17",
+                        "title": "Hugging Face",
+                        "url": "\/en\/1F917\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/98\/f2180902deba2f6fa719fb382963e0.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F917",
+                        "html_code": "&#129303;",
+                        "css_class": "u1f800",
+                        "data-symbol": "🤗"
+                    },
+                    {
+                        "symbol": "\ud83e\udd2b",
+                        "title": "Face With Finger Covering Closed Lips",
+                        "url": "\/en\/1F92B\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/61\/96a137fc540fe6fc5ffd0db9c666e0.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F92B",
+                        "html_code": "&#129323;",
+                        "css_class": "u1f800",
+                        "data-symbol": "🤫"
+                    }
+                ]
+            },
+            {
+                "subCategoryName": "Neutral and skeptical face",
+                "items": [
+                    {
+                        "symbol": "\ud83d\ude10",
+                        "title": "Neutral Face",
+                        "url": "\/en\/1F610\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/a3\/00e6617ec150df17efa0114e6f712c.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F610",
+                        "html_code": "&#128528;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😐"
+                    },
+                    {
+                        "symbol": "\ud83d\ude36",
+                        "title": "Face Without Mouth",
+                        "url": "\/en\/1F636\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/40\/733c0381c99d2ee6085a46bee632b7.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F636",
+                        "html_code": "&#128566;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😶"
+                    },
+                    {
+                        "symbol": "\ud83e\udd28",
+                        "title": "Face With One Eyebrow Raised",
+                        "url": "\/en\/1F928\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/fd\/a0b2c9197561ef2153acb6b62d8370.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F928",
+                        "html_code": "&#129320;",
+                        "css_class": "u1f800",
+                        "data-symbol": "🤨"
+                    },
+                    {
+                        "symbol": "\ud83d\ude2c",
+                        "title": "Grimacing Face",
+                        "url": "\/en\/1F62C\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/cb\/6e968aa5a3c1fbe07a98200304d9d3.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F62C",
+                        "html_code": "&#128556;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😬"
+                    },
+                    {
+                        "symbol": "\ud83d\ude0f",
+                        "title": "Smirking Face",
+                        "url": "\/en\/1F60F\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/62\/aa3eae88224d55aa05addc4482a6ef.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F60F",
+                        "html_code": "&#128527;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😏"
+                    },
+                    {
+                        "symbol": "\ud83d\ude11",
+                        "title": "Expressionless Face",
+                        "url": "\/en\/1F611\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/5b\/7e2006ca0062abd30e6d79d6ea22d6.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F611",
+                        "html_code": "&#128529;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😑"
+                    },
+                    {
+                        "symbol": "\ud83d\ude12",
+                        "title": "Unamused Face",
+                        "url": "\/en\/1F612\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/87\/fa78e4e020b49288d17e27b968e227.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F612",
+                        "html_code": "&#128530;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😒"
+                    },
+                    {
+                        "symbol": "\ud83d\ude44",
+                        "title": "Face With Rolling Eyes",
+                        "url": "\/en\/1F644\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/4e\/574dc039fae5674e0b75dd593e4d15.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F644",
+                        "html_code": "&#128580;",
+                        "css_class": "u1f400",
+                        "data-symbol": "🙄"
+                    },
+                    {
+                        "symbol": "\ud83e\udd10",
+                        "title": "Zipper-Mouth Face",
+                        "url": "\/en\/1F910\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/9f\/7f14a9183d4ad0ab3220f854f4f4a6.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F910",
+                        "html_code": "&#129296;",
+                        "css_class": "u1f800",
+                        "data-symbol": "🤐"
+                    },
+                    {
+                        "symbol": "\ud83e\udd25",
+                        "title": "Lying Face",
+                        "url": "\/en\/1F925\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/ae\/1862b2534f3bf915303fe6078bc065.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F925",
+                        "html_code": "&#129317;",
+                        "css_class": "u1f800",
+                        "data-symbol": "🤥"
+                    }
+                ]
+            },
+            {
+                "subCategoryName": "Sleepy face",
+                "items": [
+                    {
+                        "symbol": "\ud83d\ude0c",
+                        "title": "Relieved Face",
+                        "url": "\/en\/1F60C\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/31\/6f371576a6f84100ae7461b49d7a8f.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F60C",
+                        "html_code": "&#128524;",
+                        "css_class": "u1f400",
+                        "data_symbol": "😌"
+                    },
+                    {
+                        "symbol": "\ud83d\ude14",
+                        "title": "Pensive Face",
+                        "url": "\/en\/1F614\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/23\/b32a817b32b98daae7f429ac0d7fb9.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F614",
+                        "html_code": "&#128532;",
+                        "css_class": "u1f400",
+                        "data_symbol": "😔"
+                    },
+                    {
+                        "symbol": "\ud83d\ude2a",
+                        "title": "Sleepy Face",
+                        "url": "\/en\/1F62A\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/e7\/4c441b464e715e1bdf03aacfe399bb.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F62A",
+                        "html_code": "&#128554;",
+                        "css_class": "u1f400",
+                        "data_symbol": "😪"
+                    },
+                    {
+                        "symbol": "\ud83d\ude34",
+                        "title": "Sleeping Face",
+                        "url": "\/en\/1F634\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/29\/e0fa548dd0621dcbc5787abf0a3c62.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F634",
+                        "html_code": "&#128564;",
+                        "css_class": "u1f400",
+                        "data_symbol": "😴"
+                    },
+                    {
+                        "symbol": "\ud83e\udd24",
+                        "title": "Drooling Face",
+                        "url": "\/en\/1F924\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/36\/56123190e0a6f156ebcd647b0ccd62.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F924",
+                        "html_code": "&#129316;",
+                        "css_class": "u1f800",
+                        "data_symbol": "🤤"
+                    }
+                ]
+            },
+            {
+                "subCategoryName": "Sickly face",
+                "items": [
+                    {
+                        "symbol": "\ud83e\udd76",
+                        "title": "Freezing Face",
+                        "url": "\/en\/1F976\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/86\/6aafe03fd8371d2eb1dbb4cd068ed0.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F976",
+                        "html_code": "&#129398;",
+                        "css_class": "u1f800",
+                        "data-symbol": "🥶"
+                    },
+                    {
+                        "symbol": "\ud83e\udd27",
+                        "title": "Sneezing Face",
+                        "url": "\/en\/1F927\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/94\/f210045070364ed27db1bafa01d6d3.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F927",
+                        "html_code": "&#129319;",
+                        "css_class": "u1f800",
+                        "data-symbol": "🤧"
+                    },
+                    {
+                        "symbol": "\ud83d\ude37",
+                        "title": "Face with Medical Mask",
+                        "url": "\/en\/1F637\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/09\/07397d3c2d7fae37fc64652716a71b.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F637",
+                        "html_code": "&#128567;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😷"
+                    },
+                    {
+                        "symbol": "\ud83e\udd2f",
+                        "title": "Shocked Face With Exploding Head",
+                        "url": "\/en\/1F92F\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/b6\/006751651eeab3a5d8de403cc6bce0.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F92F",
+                        "html_code": "&#129327;",
+                        "css_class": "u1f800",
+                        "data-symbol": "🤯"
+                    },
+                    {
+                        "symbol": "\ud83e\udd74",
+                        "title": "Face with Uneven Eyes and Wavy Mouth",
+                        "url": "\/en\/1F974\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/09\/55b13a1a6afa36ded2f8cba0cb165b.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F974",
+                        "html_code": "&#129396;",
+                        "css_class": "u1f800",
+                        "data-symbol": "🥴"
+                    },
+                    {
+                        "symbol": "\ud83d\ude35",
+                        "title": "Dizzy Face",
+                        "url": "\/en\/1F635\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/cc\/9d0f7f886c6d586cd6564a31ebd88e.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F635",
+                        "html_code": "&#128565;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😵"
+                    },
+                    {
+                        "symbol": "\ud83e\udd12",
+                        "title": "Face With Thermometer",
+                        "url": "\/en\/1F912\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/bc\/f1f024cda77326d1332e3b06079db7.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F912",
+                        "html_code": "&#129298;",
+                        "css_class": "u1f800",
+                        "data-symbol": "🤒"
+                    },
+                    {
+                        "symbol": "\ud83e\udd75",
+                        "title": "Overheated Face",
+                        "url": "\/en\/1F975\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/2a\/47fb4ecc4312057c022e25e7caa230.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F975",
+                        "html_code": "&#129397;",
+                        "css_class": "u1f800",
+                        "data-symbol": "🥵"
+                    },
+                    {
+                        "symbol": "\ud83e\udd2e",
+                        "title": "Face With Open Mouth Vomiting",
+                        "url": "\/en\/1F92E\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/c9\/d9061f1c8706c926104599db35b4ae.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F92E",
+                        "html_code": "&#129326;",
+                        "css_class": "u1f800",
+                        "data-symbol": "🤮"
+                    },
+                    {
+                        "symbol": "\ud83e\udd15",
+                        "title": "Face With Head-Bandage",
+                        "url": "\/en\/1F915\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/c0\/0aca820c213a4727ba8728155aa26f.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F915",
+                        "html_code": "&#129301;",
+                        "css_class": "u1f800",
+                        "data-symbol": "🤕"
+                    },
+                    {
+                        "symbol": "\ud83e\udd22",
+                        "title": "Nauseated Face",
+                        "url": "\/en\/1F922\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/ec\/d72b523ca40f2555ff506f568966f4.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F922",
+                        "html_code": "&#129314;",
+                        "css_class": "u1f800",
+                        "data-symbol": "🤢"
+                    }
+                ]
+            },
+            {
+                "subCategoryName": "Face with hat",
+                "items": [
+                    {
+                        "symbol": "\ud83e\udd78",
+                        "title": "Disguised Face",
+                        "url": "\/en\/1F978\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/4b\/99f044c1e811a54ab73c03052ce9f2.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F978",
+                        "html_code": "&#129400;",
+                        "css_class": "u1f800",
+                        "data-symbol": "🥸"
+                    },
+                    {
+                        "symbol": "\ud83e\udd20",
+                        "title": "Face with Cowboy Hat",
+                        "url": "\/en\/1F920\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/5a\/fe6c6ed3869f3eec0812de21f1941f.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F920",
+                        "html_code": "&#129312;",
+                        "css_class": "u1f800",
+                        "data-symbol": "🤠"
+                    },
+                    {
+                        "symbol": "\ud83e\udd73",
+                        "title": "Face with Party Horn and Party Hat",
+                        "url": "\/en\/1F973\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/9d\/06b3d41f3626ac01b0123ed450e97a.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F973",
+                        "html_code": "&#129395;",
+                        "css_class": "u1f800",
+                        "data-symbol": "🥳"
+                    }
+                ]
+            },
+            {
+                "subCategoryName": "Face with glasses",
+                "items": [
+                    {
+                        "symbol": "\ud83e\udd13",
+                        "title": "Nerd Face",
+                        "url": "\/en\/1F913\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/0c\/f0c7fd9dcb878d4ac26424608addd1.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F913",
+                        "html_code": "&#129299;",
+                        "css_class": "u1f800",
+                        "data-symbol": "🤓"
+                    },
+                    {
+                        "symbol": "\ud83d\ude0e",
+                        "title": "Smiling Face with Sunglasses",
+                        "url": "\/en\/1F60E\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/c2\/5f0199530ac59c1bcca216cf4453dd.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F60E",
+                        "html_code": "&#128526;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😎"
+                    },
+                    {
+                        "symbol": "\ud83e\uddd0",
+                        "title": "Face With Monocle",
+                        "url": "\/en\/1F9D0\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/8b\/3435d5a5cfc66607847a147d68e565.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F9D0",
+                        "html_code": "&#129488;",
+                        "css_class": "u1f800",
+                        "data-symbol": "🧐"
+                    }
+                ]
+            },
+            {
+                "subCategoryName": "Concerned face",
+                "items": [
+                    {
+                        "symbol": "\ud83d\ude15",
+                        "title": "Confused Face",
+                        "url": "\/en\/1F615\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/71\/a782e5bf6ffe9f2927ce1e33083363.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F615",
+                        "html_code": "&#128533;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😕"
+                    },
+                    {
+                        "symbol": "\ud83d\ude16",
+                        "title": "Confounded Face",
+                        "url": "\/en\/1F616\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/18\/648e884f76d410dad760e9b0523062.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F616",
+                        "html_code": "&#128534;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😖"
+                    },
+                    {
+                        "symbol": "\ud83d\ude27",
+                        "title": "Anguished Face",
+                        "url": "\/en\/1F627\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/6f\/1b2790979f3d448d1a697769a082c1.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F627",
+                        "html_code": "&#128551;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😧"
+                    },
+                    {
+                        "symbol": "\ud83e\udd7a",
+                        "title": "Face with Pleading Eyes",
+                        "url": "\/en\/1F97A\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/65\/979b8b29d43a78c60c399ce65a49a4.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F97A",
+                        "html_code": "&#129402;",
+                        "css_class": "u1f800",
+                        "data-symbol": "🥺"
+                    },
+                    {
+                        "symbol": "\ud83d\ude2b",
+                        "title": "Tired Face",
+                        "url": "\/en\/1F62B\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/84\/47dbb181812c819c08c324d69f29cc.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F62B",
+                        "html_code": "&#128555;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😫"
+                    },
+                    {
+                        "symbol": "\ud83d\ude31",
+                        "title": "Face Screaming In Fear",
+                        "url": "\/en\/1F631\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/ea\/18952974d24cf08a287a6703b32074.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F631",
+                        "html_code": "&#128561;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😱"
+                    },
+                    {
+                        "symbol": "\ud83d\ude1e",
+                        "title": "Disappointed Face",
+                        "url": "\/en\/1F61E\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/84\/a9483204ff64187bfcf6f9cdfbe216.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F61E",
+                        "html_code": "&#128542;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😞"
+                    },
+                    {
+                        "symbol": "\ud83d\ude2f",
+                        "title": "Hushed Face",
+                        "url": "\/en\/1F62F\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/4d\/dc1f49aa27e396c1d2bca086d3301b.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F62F",
+                        "html_code": "&#128559;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😯"
+                    },
+                    {
+                        "symbol": "\ud83d\ude2e",
+                        "title": "Face with Open Mouth",
+                        "url": "\/en\/1F62E\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/a8\/0abb3107eb04c80b0d4d4ba3264d9f.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F62E",
+                        "html_code": "&#128558;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😮"
+                    },
+                    {
+                        "symbol": "\ud83d\ude2d",
+                        "title": "Loudly Crying Face",
+                        "url": "\/en\/1F62D\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/6b\/d4e3b3126e857af94efcfe6a97ac2e.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F62D",
+                        "html_code": "&#128557;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😭"
+                    },
+                    {
+                        "symbol": "\ud83d\ude1f",
+                        "title": "Worried Face",
+                        "url": "\/en\/1F61F\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/4a\/044ed98cd064706135ffe9f59002ee.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F61F",
+                        "html_code": "&#128543;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😟"
+                    },
+                    {
+                        "symbol": "\ud83d\ude13",
+                        "title": "Face with Cold Sweat",
+                        "url": "\/en\/1F613\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/85\/c6e96ad0ce17594cb32d3a28302fca.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F613",
+                        "html_code": "&#128531;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😓"
+                    },
+                    {
+                        "symbol": "\ud83d\ude29",
+                        "title": "Weary Face",
+                        "url": "\/en\/1F629\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/88\/b64d2609668a41a0b7168196cf574f.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F629",
+                        "html_code": "&#128553;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😩"
+                    },
+                    {
+                        "symbol": "\ud83d\ude22",
+                        "title": "Crying Face",
+                        "url": "\/en\/1F622\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/ea\/5e18a37749cfa889986344a39f54ad.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F622",
+                        "html_code": "&#128546;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😢"
+                    },
+                    {
+                        "symbol": "\ud83d\ude32",
+                        "title": "Astonished Face",
+                        "url": "\/en\/1F632\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/7c\/8c2eb459807b39cc4170bf10c74bc1.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F632",
+                        "html_code": "&#128562;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😲"
+                    },
+                    {
+                        "symbol": "\ud83d\ude28",
+                        "title": "Fearful Face",
+                        "url": "\/en\/1F628\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/30\/4b99a9fd45ada85b1b9c9745be50cc.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F628",
+                        "html_code": "&#128552;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😨"
+                    },
+                    {
+                        "symbol": "\ud83e\udd71",
+                        "title": "Yawning Face",
+                        "url": "\/en\/1F971\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/e9\/b1f8728d1d21563db258af3de32bdd.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F971",
+                        "html_code": "&#129393;",
+                        "css_class": "u1f800",
+                        "data-symbol": "🥱"
+                    },
+                    {
+                        "symbol": "\ud83d\ude33",
+                        "title": "Flushed Face",
+                        "url": "\/en\/1F633\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/7b\/e5a7e335877aa746318f96bcc50455.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F633",
+                        "html_code": "&#128563;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😳"
+                    },
+                    {
+                        "symbol": "\ud83d\ude41",
+                        "title": "Slightly Frowning Face",
+                        "url": "\/en\/1F641\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/cb\/079e5c09d0921c3c6661692803ee77.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F641",
+                        "html_code": "&#128577;",
+                        "css_class": "u1f400",
+                        "data-symbol": "🙁"
+                    },
+                    {
+                        "symbol": "\ud83d\ude25",
+                        "title": "Disappointed But Relieved Face",
+                        "url": "\/en\/1F625\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/06\/736c37eae8e71c23bc6cf6156c9eed.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F625",
+                        "html_code": "&#128549;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😥"
+                    },
+                    {
+                        "symbol": "\ud83d\ude23",
+                        "title": "Persevering Face",
+                        "url": "\/en\/1F623\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/72\/dcbb3cf447bf59cf59595d2b361dad.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F623",
+                        "html_code": "&#128547;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😣"
+                    },
+                    {
+                        "symbol": "\ud83d\ude26",
+                        "title": "Frowning Face with Open Mouth",
+                        "url": "\/en\/1F626\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/5b\/cb0d3ff3911a0d374302650bbbf571.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F626",
+                        "html_code": "&#128550;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😦"
+                    },
+                    {
+                        "symbol": "\u2639",
+                        "title": "White Frowning Face",
+                        "url": "\/en\/2639\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/2f\/66f8fcd12a1aa5d9bf4121d51c060a.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols",
+                            "url": "\/en\/blocks\/miscellaneous-symbols\/"
+                        },
+                        "number": "U+2639",
+                        "html_code": "&#9785;",
+                        "css_class": "u2400",
+                        "data-symbol": "☹"
+                    },
+                    {
+                        "symbol": "\ud83d\ude30",
+                        "title": "Face with Open Mouth and Cold Sweat",
+                        "url": "\/en\/1F630\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/ae\/b396eedfbd6abeb07b16ecac73d4dd.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F630",
+                        "html_code": "&#128560;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😰"
+                    }
+                ]
+            },
+            {
+                "subCategoryName": "Angry face",
+                "items": [
+                    {
+                        "symbol": "\u2620",
+                        "title": "Skull and Crossbones",
+                        "url": "\/en\/2620\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/d6\/8afe6b0c9f1fd20a34ad76ffbfaff0.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols",
+                            "url": "\/en\/blocks\/miscellaneous-symbols\/"
+                        },
+                        "number": "U+2620",
+                        "html_code": "&#9760;",
+                        "css_class": "u2400",
+                        "data-symbol": "☠"
+                    },
+                    {
+                        "symbol": "\ud83d\ude24",
+                        "title": "Face with Look of Triumph",
+                        "url": "\/en\/1F624\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/bf\/91212969824c14df4a8d1256da2aa5.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F624",
+                        "html_code": "&#128548;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😤"
+                    },
+                    {
+                        "symbol": "\ud83d\ude08",
+                        "title": "Smiling Face with Horns",
+                        "url": "\/en\/1F608\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/c2\/5e1c1a4dfe039c687f18a38a735bb4.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F608",
+                        "html_code": "&#128520;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😈"
+                    },
+                    {
+                        "symbol": "\ud83d\ude21",
+                        "title": "Pouting Face",
+                        "url": "\/en\/1F621\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/80\/864630847478ce2ab483c21c52d1a2.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F621",
+                        "html_code": "&#128545;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😡"
+                    },
+                    {
+                        "symbol": "\ud83d\udc80",
+                        "title": "Skull",
+                        "url": "\/en\/1F480\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/f4\/54f581a44e02b9dc62f2c1d862d528.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F480",
+                        "html_code": "&#128128;",
+                        "css_class": "u1f400",
+                        "data-symbol": "💀"
+                    },
+                    {
+                        "symbol": "\ud83d\udc7f",
+                        "title": "Imp",
+                        "url": "\/en\/1F47F\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/bf\/235226177c8601f02a65ae4c6985b6.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F47F",
+                        "html_code": "&#128127;",
+                        "css_class": "u1f400",
+                        "data-symbol": "👿"
+                    },
+                    {
+                        "symbol": "\ud83e\udd2c",
+                        "title": "Serious Face With Symbols Covering Mouth",
+                        "url": "\/en\/1F92C\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/65\/edce5189d11a80369a50dfff26246d.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F92C",
+                        "html_code": "&#129324;",
+                        "css_class": "u1f800",
+                        "data-symbol": "🤬"
+                    },
+                    {
+                        "symbol": "\ud83d\ude20",
+                        "title": "Angry Face",
+                        "url": "\/en\/1F620\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/81\/1480d67f260d9aa1b88d3c88e17a06.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F620",
+                        "html_code": "&#128544;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😠"
+                    }
+                ]
+            },
+            {
+                "subCategoryName": "Fancy costume",
+                "items": [
+                    {
+                        "symbol": "\ud83d\udca9",
+                        "title": "Pile of Poo",
+                        "url": "\/en\/1F4A9\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/fe\/da2cf7320c6aacab49335ec1c339d9.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F4A9",
+                        "html_code": "&#128169;",
+                        "css_class": "u1f400",
+                        "data-symbol": "💩"
+                    },
+                    {
+                        "symbol": "\ud83e\udd21",
+                        "title": "Clown Face",
+                        "url": "\/en\/1F921\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/96\/a32575058d2a78fd964b00194893ac.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F921",
+                        "html_code": "&#129313;",
+                        "css_class": "u1f800",
+                        "data-symbol": "🤡"
+                    },
+                    {
+                        "symbol": "\ud83e\udd16",
+                        "title": "Robot Face",
+                        "url": "\/en\/1F916\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/6f\/628e8f46f911a327e7a3304e7b0571.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F916",
+                        "html_code": "&#129302;",
+                        "css_class": "u1f800",
+                        "data-symbol": "🤖"
+                    },
+                    {
+                        "symbol": "\ud83d\udc7d",
+                        "title": "Extraterrestrial Alien",
+                        "url": "\/en\/1F47D\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/c1\/2bafcfad730289b11a92a27c416528.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F47D",
+                        "html_code": "&#128125;",
+                        "css_class": "u1f400",
+                        "data-symbol": "👽"
+                    },
+                    {
+                        "symbol": "\ud83d\udc7e",
+                        "title": "Alien Monster",
+                        "url": "\/en\/1F47E\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/b4\/17cc3c2d7b3956e2f63fc91c1102cb.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F47E",
+                        "html_code": "&#128126;",
+                        "css_class": "u1f400",
+                        "data-symbol": "👾"
+                    },
+                    {
+                        "symbol": "\ud83d\udc7b",
+                        "title": "Ghost",
+                        "url": "\/en\/1F47B\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/6c\/40816b798e789ee1661f7fe128c710.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F47B",
+                        "html_code": "&#128123;",
+                        "css_class": "u1f400",
+                        "data-symbol": "👻"
+                    },
+                    {
+                        "symbol": "\ud83d\udc7a",
+                        "title": "Japanese Goblin",
+                        "url": "\/en\/1F47A\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/3b\/8f2af65ce58b178bd155771d01a9d2.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F47A",
+                        "html_code": "&#128122;",
+                        "css_class": "u1f400",
+                        "data-symbol": "👺"
+                    },
+                    {
+                        "symbol": "\ud83d\udc79",
+                        "title": "Japanese Ogre",
+                        "url": "\/en\/1F479\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/2e\/13612ae3ab4aa1a498011b9ae37cc9.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F479",
+                        "html_code": "&#128121;",
+                        "css_class": "u1f400",
+                        "data-symbol": "👹"
+                    }
+                ]
+            },
+            {
+                "subCategoryName": "Cat face",
+                "items": [
+                    {
+                        "symbol": "\ud83d\ude40",
+                        "title": "Weary Cat Face",
+                        "url": "\/en\/1F640\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/8d\/18d3de471568af02b56f06e0b7a443.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F640",
+                        "html_code": "&#128576;",
+                        "css_class": "u1f400",
+                        "data-symbol": "🙀"
+                    },
+                    {
+                        "symbol": "\ud83d\ude3d",
+                        "title": "Kissing Cat Face with Closed Eyes",
+                        "url": "\/en\/1F63D\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/3e\/4fa20b1401ab59deef4f493f63f421.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F63D",
+                        "html_code": "&#128573;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😽"
+                    },
+                    {
+                        "symbol": "\ud83d\ude38",
+                        "title": "Grinning Cat Face with Smiling Eyes",
+                        "url": "\/en\/1F638\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/09\/1a2bcc79fb4630dac83a2ba29b321f.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F638",
+                        "html_code": "&#128568;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😸"
+                    },
+                    {
+                        "symbol": "\ud83d\ude3f",
+                        "title": "Crying Cat Face",
+                        "url": "\/en\/1F63F\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/3c\/f4d4c3c2c3646eb6fadeb101622b96.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F63F",
+                        "html_code": "&#128575;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😿"
+                    },
+                    {
+                        "symbol": "\ud83d\ude3e",
+                        "title": "Pouting Cat Face",
+                        "url": "\/en\/1F63E\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/ae\/ef4a449efc88d54e42d60e332bc6c1.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F63E",
+                        "html_code": "&#128574;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😾"
+                    },
+                    {
+                        "symbol": "\ud83d\ude3b",
+                        "title": "Smiling Cat Face with Heart-Shaped Eyes",
+                        "url": "\/en\/1F63B\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/83\/10a75df756a2544e5cc704c1319801.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F63B",
+                        "html_code": "&#128571;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😻"
+                    },
+                    {
+                        "symbol": "\ud83d\ude3a",
+                        "title": "Smiling Cat Face with Open Mouth",
+                        "url": "\/en\/1F63A\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/22\/e1de20639f2009b80bd2658111a265.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F63A",
+                        "html_code": "&#128570;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😺"
+                    },
+                    {
+                        "symbol": "\ud83d\ude3c",
+                        "title": "Cat Face with Wry Smile",
+                        "url": "\/en\/1F63C\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/42\/846d8b2ec3ae67d07b01f2eda55c62.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F63C",
+                        "html_code": "&#128572;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😼"
+                    },
+                    {
+                        "symbol": "\ud83d\ude39",
+                        "title": "Cat Face with Tears of Joy",
+                        "url": "\/en\/1F639\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/20\/80859c7fb796dc6d46ab54237bbe4a.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F639",
+                        "html_code": "&#128569;",
+                        "css_class": "u1f400",
+                        "data-symbol": "😹"
+                    }
+                ]
+            },
+            {
+                "subCategoryName": "Monkey face",
+                "items": [
+                    {
+                        "symbol": "\ud83d\ude49",
+                        "title": "Hear-No-Evil Monkey",
+                        "url": "\/en\/1F649\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/10\/cb7280be53a4baadf4f8e1cfe90894.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F649",
+                        "html_code": "&#128585;",
+                        "css_class": "u1f400",
+                        "data-symbol": "🙉"
+                    },
+                    {
+                        "symbol": "\ud83d\ude4a",
+                        "title": "Speak-No-Evil Monkey",
+                        "url": "\/en\/1F64A\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/f3\/65fe1567782a416e976b5f098170d7.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F64A",
+                        "html_code": "&#128586;",
+                        "css_class": "u1f400",
+                        "data-symbol": "🙊"
+                    },
+                    {
+                        "symbol": "\ud83d\ude48",
+                        "title": "See-No-Evil Monkey",
+                        "url": "\/en\/1F648\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/48\/1ba150c0be39f3738950f82893273d.png",
+                        "block": {
+                            "title": "Emoticons (Emoji)",
+                            "url": "\/en\/blocks\/emoticons\/"
+                        },
+                        "number": "U+1F648",
+                        "html_code": "&#128584;",
+                        "css_class": "u1f400",
+                        "data-symbol": "🙈"
+                    }
+                ]
             }
         ]
     }

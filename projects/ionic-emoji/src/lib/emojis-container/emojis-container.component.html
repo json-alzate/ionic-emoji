@@ -1,6 +1,29 @@
 <ion-content>
 
     <lib-segments></lib-segments>
+    <lib-search></lib-search>
 
+    <ion-item-group *ngFor="let pack of allEmojisPacks">
+        <ion-item-divider sticky>
+            <ion-label>
+                {{ pack.categoryName }}
+            </ion-label>
+        </ion-item-divider>
+
+        <ng-container *ngFor="let subCategory of pack.subCategories">
+
+            <ion-item lines="none">
+                <ion-label> {{ subCategory.subCategoryName }} </ion-label>
+            </ion-item>
+
+            <ion-col size="2" *ngFor="let item of subCategory.items" >
+                <ion-img [src]="item.data_symbol"></ion-img>
+            </ion-col>
+
+        </ng-container>
+
+
+
+    </ion-item-group>
 
 </ion-content>

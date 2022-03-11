@@ -1,6 +1,6 @@
 [
     {
-        "categoryName": "Smileys &amp; Emotion",
+        "categoryName": "Smileys & Emotion",
         "subCategories": [
             {
                 "subCategoryName": "Smiling face",
@@ -17,7 +17,7 @@
                         "number": "U+1F600",
                         "html_code": "&#128512;",
                         "css_class": "u1f400",
-                        "data-symbol": "😀"
+                        "data_symbol": "😀"
                     },
                     {
                         "symbol": "\ud83d\ude09",
@@ -31,7 +31,7 @@
                         "number": "U+1F609",
                         "html_code": "&#128521;",
                         "css_class": "u1f400",
-                        "data-symbol": "😉"
+                        "data_symbol": "😉"
                     },
                     {
                         "symbol": "\ud83d\ude01",
@@ -45,7 +45,7 @@
                         "number": "U+1F601",
                         "html_code": "&#128513;",
                         "css_class": "u1f400",
-                        "data-symbol": "😁"
+                        "data_symbol": "😁"
                     },
                     {
                         "symbol": "\ud83d\ude06",
@@ -59,7 +59,7 @@
                         "number": "U+1F606",
                         "html_code": "&#128518;",
                         "css_class": "u1f400",
-                        "data-symbol": "😆"
+                        "data_symbol": "😆"
                     },
                     {
                         "symbol": "\ud83d\ude05",
@@ -73,7 +73,7 @@
                         "number": "U+1F605",
                         "html_code": "&#128517;",
                         "css_class": "u1f400",
-                        "data-symbol": "😅"
+                        "data_symbol": "😅"
                     },
                     {
                         "symbol": "\ud83d\ude02",
@@ -87,7 +87,7 @@
                         "number": "U+1F602",
                         "html_code": "&#128514;",
                         "css_class": "u1f400",
-                        "data-symbol": "😂"
+                        "data_symbol": "😂"
                     },
                     {
                         "symbol": "\ud83e\udd23",
@@ -101,7 +101,7 @@
                         "number": "U+1F923",
                         "html_code": "&#129315;",
                         "css_class": "u1f800",
-                        "data-symbol": "🤣"
+                        "data_symbol": "🤣"
                     },
                     {
                         "symbol": "\ud83d\ude0a",
@@ -115,7 +115,7 @@
                         "number": "U+1F60A",
                         "html_code": "&#128522;",
                         "css_class": "u1f400",
-                        "data-symbol": "😊"
+                        "data_symbol": "😊"
                     },
                     {
                         "symbol": "\ud83d\ude42",
@@ -129,7 +129,7 @@
                         "number": "U+1F642",
                         "html_code": "&#128578;",
                         "css_class": "u1f400",
-                        "data-symbol": "🙂"
+                        "data_symbol": "🙂"
                     },
                     {
                         "symbol": "\ud83d\ude04",
@@ -143,7 +143,7 @@
                         "number": "U+1F604",
                         "html_code": "&#128516;",
                         "css_class": "u1f400",
-                        "data-symbol": "😄"
+                        "data_symbol": "😄"
                     },
                     {
                         "symbol": "\ud83d\ude43",
@@ -157,7 +157,7 @@
                         "number": "U+1F643",
                         "html_code": "&#128579;",
                         "css_class": "u1f400",
-                        "data-symbol": "🙃"
+                        "data_symbol": "🙃"
                     },
                     {
                         "symbol": "\ud83d\ude07",
@@ -171,7 +171,7 @@
                         "number": "U+1F607",
                         "html_code": "&#128519;",
                         "css_class": "u1f400",
-                        "data-symbol": "😇"
+                        "data_symbol": "😇"
                     },
                     {
                         "symbol": "\ud83d\ude03",
@@ -185,7 +185,7 @@
                         "number": "U+1F603",
                         "html_code": "&#128515;",
                         "css_class": "u1f400",
-                        "data-symbol": "😃"
+                        "data_symbol": "😃"
                     }
                 ]
             },
@@ -204,7 +204,7 @@
                         "number": "U+1F61A",
                         "html_code": "&#128538;",
                         "css_class": "u1f400",
-                        "data-symbol": "😚"
+                        "data_symbol": "😚"
                     },
                     {
                         "symbol": "\ud83e\udd70",
@@ -218,7 +218,7 @@
                         "number": "U+1F970",
                         "html_code": "&#129392;",
                         "css_class": "u1f800",
-                        "data-symbol": "🥰"
+                        "data_symbol": "🥰"
                     },
                     {
                         "symbol": "\ud83d\ude19",
@@ -232,7 +232,7 @@
                         "number": "U+1F619",
                         "html_code": "&#128537;",
                         "css_class": "u1f400",
-                        "data-symbol": "😙"
+                        "data_symbol": "😙"
                     },
                     {
                         "symbol": "\u263a",
@@ -246,7 +246,7 @@
                         "number": "U+263A",
                         "html_code": "&#9786;",
                         "css_class": "u2400",
-                        "data-symbol": "☺"
+                        "data_symbol": "☺"
                     },
                     {
                         "symbol": "\ud83d\ude0d",
@@ -260,7 +260,7 @@
                         "number": "U+1F60D",
                         "html_code": "&#128525;",
                         "css_class": "u1f400",
-                        "data-symbol": "😍"
+                        "data_symbol": "😍"
                     },
                     {
                         "symbol": "\ud83d\ude17",
@@ -274,7 +274,7 @@
                         "number": "U+1F617",
                         "html_code": "&#128535;",
                         "css_class": "u1f400",
-                        "data-symbol": "😗"
+                        "data_symbol": "😗"
                     },
                     {
                         "symbol": "\ud83e\udd72",
@@ -288,7 +288,7 @@
                         "number": "U+1F972",
                         "html_code": "&#129394;",
                         "css_class": "u1f800",
-                        "data-symbol": "🥲"
+                        "data_symbol": "🥲"
                     },
                     {
                         "symbol": "\ud83d\ude18",
@@ -302,7 +302,7 @@
                         "number": "U+1F618",
                         "html_code": "&#128536;",
                         "css_class": "u1f400",
-                        "data-symbol": "😘"
+                        "data_symbol": "😘"
                     },
                     {
                         "symbol": "\ud83e\udd29",
@@ -316,7 +316,7 @@
                         "number": "U+1F929",
                         "html_code": "&#129321;",
                         "css_class": "u1f800",
-                        "data-symbol": "🤩"
+                        "data_symbol": "🤩"
                     }
                 ]
             },
@@ -335,7 +335,7 @@
                         "number": "U+1F60B",
                         "html_code": "&#128523;",
                         "css_class": "u1f400",
-                        "data-symbol": "😋"
+                        "data_symbol": "😋"
                     },
                     {
                         "symbol": "\ud83d\ude1b",
@@ -349,7 +349,7 @@
                         "number": "U+1F61B",
                         "html_code": "&#128539;",
                         "css_class": "u1f400",
-                        "data-symbol": "😛"
+                        "data_symbol": "😛"
                     },
                     {
                         "symbol": "\ud83d\ude1c",
@@ -363,7 +363,7 @@
                         "number": "U+1F61C",
                         "html_code": "&#128540;",
                         "css_class": "u1f400",
-                        "data-symbol": "😜"
+                        "data_symbol": "😜"
                     },
                     {
                         "symbol": "\ud83e\udd2a",
@@ -377,7 +377,7 @@
                         "number": "U+1F92A",
                         "html_code": "&#129322;",
                         "css_class": "u1f800",
-                        "data-symbol": "🤪"
+                        "data_symbol": "🤪"
                     },
                     {
                         "symbol": "\ud83d\ude1d",
@@ -391,7 +391,7 @@
                         "number": "U+1F61D",
                         "html_code": "&#128541;",
                         "css_class": "u1f400",
-                        "data-symbol": "😝"
+                        "data_symbol": "😝"
                     },
                     {
                         "symbol": "\ud83e\udd11",
@@ -405,7 +405,7 @@
                         "number": "U+1F911",
                         "html_code": "&#129297;",
                         "css_class": "u1f800",
-                        "data-symbol": "🤑"
+                        "data_symbol": "🤑"
                     }
                 ]
             },
@@ -424,7 +424,7 @@
                         "number": "U+1F914",
                         "html_code": "&#129300;",
                         "css_class": "u1f800",
-                        "data-symbol": "🤔"
+                        "data_symbol": "🤔"
                     },
                     {
                         "symbol": "\ud83e\udd2d",
@@ -438,7 +438,7 @@
                         "number": "U+1F92D",
                         "html_code": "&#129325;",
                         "css_class": "u1f800",
-                        "data-symbol": "🤭"
+                        "data_symbol": "🤭"
                     },
                     {
                         "symbol": "\ud83e\udd17",
@@ -452,7 +452,7 @@
                         "number": "U+1F917",
                         "html_code": "&#129303;",
                         "css_class": "u1f800",
-                        "data-symbol": "🤗"
+                        "data_symbol": "🤗"
                     },
                     {
                         "symbol": "\ud83e\udd2b",
@@ -466,7 +466,7 @@
                         "number": "U+1F92B",
                         "html_code": "&#129323;",
                         "css_class": "u1f800",
-                        "data-symbol": "🤫"
+                        "data_symbol": "🤫"
                     }
                 ]
             },
@@ -485,7 +485,7 @@
                         "number": "U+1F610",
                         "html_code": "&#128528;",
                         "css_class": "u1f400",
-                        "data-symbol": "😐"
+                        "data_symbol": "😐"
                     },
                     {
                         "symbol": "\ud83d\ude36",
@@ -499,7 +499,7 @@
                         "number": "U+1F636",
                         "html_code": "&#128566;",
                         "css_class": "u1f400",
-                        "data-symbol": "😶"
+                        "data_symbol": "😶"
                     },
                     {
                         "symbol": "\ud83e\udd28",
@@ -513,7 +513,7 @@
                         "number": "U+1F928",
                         "html_code": "&#129320;",
                         "css_class": "u1f800",
-                        "data-symbol": "🤨"
+                        "data_symbol": "🤨"
                     },
                     {
                         "symbol": "\ud83d\ude2c",
@@ -527,7 +527,7 @@
                         "number": "U+1F62C",
                         "html_code": "&#128556;",
                         "css_class": "u1f400",
-                        "data-symbol": "😬"
+                        "data_symbol": "😬"
                     },
                     {
                         "symbol": "\ud83d\ude0f",
@@ -541,7 +541,7 @@
                         "number": "U+1F60F",
                         "html_code": "&#128527;",
                         "css_class": "u1f400",
-                        "data-symbol": "😏"
+                        "data_symbol": "😏"
                     },
                     {
                         "symbol": "\ud83d\ude11",
@@ -555,7 +555,7 @@
                         "number": "U+1F611",
                         "html_code": "&#128529;",
                         "css_class": "u1f400",
-                        "data-symbol": "😑"
+                        "data_symbol": "😑"
                     },
                     {
                         "symbol": "\ud83d\ude12",
@@ -569,7 +569,7 @@
                         "number": "U+1F612",
                         "html_code": "&#128530;",
                         "css_class": "u1f400",
-                        "data-symbol": "😒"
+                        "data_symbol": "😒"
                     },
                     {
                         "symbol": "\ud83d\ude44",
@@ -583,7 +583,7 @@
                         "number": "U+1F644",
                         "html_code": "&#128580;",
                         "css_class": "u1f400",
-                        "data-symbol": "🙄"
+                        "data_symbol": "🙄"
                     },
                     {
                         "symbol": "\ud83e\udd10",
@@ -597,7 +597,7 @@
                         "number": "U+1F910",
                         "html_code": "&#129296;",
                         "css_class": "u1f800",
-                        "data-symbol": "🤐"
+                        "data_symbol": "🤐"
                     },
                     {
                         "symbol": "\ud83e\udd25",
@@ -611,7 +611,7 @@
                         "number": "U+1F925",
                         "html_code": "&#129317;",
                         "css_class": "u1f800",
-                        "data-symbol": "🤥"
+                        "data_symbol": "🤥"
                     }
                 ]
             },
@@ -705,7 +705,7 @@
                         "number": "U+1F976",
                         "html_code": "&#129398;",
                         "css_class": "u1f800",
-                        "data-symbol": "🥶"
+                        "data_symbol": "🥶"
                     },
                     {
                         "symbol": "\ud83e\udd27",
@@ -719,7 +719,7 @@
                         "number": "U+1F927",
                         "html_code": "&#129319;",
                         "css_class": "u1f800",
-                        "data-symbol": "🤧"
+                        "data_symbol": "🤧"
                     },
                     {
                         "symbol": "\ud83d\ude37",
@@ -733,7 +733,7 @@
                         "number": "U+1F637",
                         "html_code": "&#128567;",
                         "css_class": "u1f400",
-                        "data-symbol": "😷"
+                        "data_symbol": "😷"
                     },
                     {
                         "symbol": "\ud83e\udd2f",
@@ -747,7 +747,7 @@
                         "number": "U+1F92F",
                         "html_code": "&#129327;",
                         "css_class": "u1f800",
-                        "data-symbol": "🤯"
+                        "data_symbol": "🤯"
                     },
                     {
                         "symbol": "\ud83e\udd74",
@@ -761,7 +761,7 @@
                         "number": "U+1F974",
                         "html_code": "&#129396;",
                         "css_class": "u1f800",
-                        "data-symbol": "🥴"
+                        "data_symbol": "🥴"
                     },
                     {
                         "symbol": "\ud83d\ude35",
@@ -775,7 +775,7 @@
                         "number": "U+1F635",
                         "html_code": "&#128565;",
                         "css_class": "u1f400",
-                        "data-symbol": "😵"
+                        "data_symbol": "😵"
                     },
                     {
                         "symbol": "\ud83e\udd12",
@@ -789,7 +789,7 @@
                         "number": "U+1F912",
                         "html_code": "&#129298;",
                         "css_class": "u1f800",
-                        "data-symbol": "🤒"
+                        "data_symbol": "🤒"
                     },
                     {
                         "symbol": "\ud83e\udd75",
@@ -803,7 +803,7 @@
                         "number": "U+1F975",
                         "html_code": "&#129397;",
                         "css_class": "u1f800",
-                        "data-symbol": "🥵"
+                        "data_symbol": "🥵"
                     },
                     {
                         "symbol": "\ud83e\udd2e",
@@ -817,7 +817,7 @@
                         "number": "U+1F92E",
                         "html_code": "&#129326;",
                         "css_class": "u1f800",
-                        "data-symbol": "🤮"
+                        "data_symbol": "🤮"
                     },
                     {
                         "symbol": "\ud83e\udd15",
@@ -831,7 +831,7 @@
                         "number": "U+1F915",
                         "html_code": "&#129301;",
                         "css_class": "u1f800",
-                        "data-symbol": "🤕"
+                        "data_symbol": "🤕"
                     },
                     {
                         "symbol": "\ud83e\udd22",
@@ -845,7 +845,7 @@
                         "number": "U+1F922",
                         "html_code": "&#129314;",
                         "css_class": "u1f800",
-                        "data-symbol": "🤢"
+                        "data_symbol": "🤢"
                     }
                 ]
             },
@@ -864,7 +864,7 @@
                         "number": "U+1F978",
                         "html_code": "&#129400;",
                         "css_class": "u1f800",
-                        "data-symbol": "🥸"
+                        "data_symbol": "🥸"
                     },
                     {
                         "symbol": "\ud83e\udd20",
@@ -878,7 +878,7 @@
                         "number": "U+1F920",
                         "html_code": "&#129312;",
                         "css_class": "u1f800",
-                        "data-symbol": "🤠"
+                        "data_symbol": "🤠"
                     },
                     {
                         "symbol": "\ud83e\udd73",
@@ -892,7 +892,7 @@
                         "number": "U+1F973",
                         "html_code": "&#129395;",
                         "css_class": "u1f800",
-                        "data-symbol": "🥳"
+                        "data_symbol": "🥳"
                     }
                 ]
             },
@@ -911,7 +911,7 @@
                         "number": "U+1F913",
                         "html_code": "&#129299;",
                         "css_class": "u1f800",
-                        "data-symbol": "🤓"
+                        "data_symbol": "🤓"
                     },
                     {
                         "symbol": "\ud83d\ude0e",
@@ -925,7 +925,7 @@
                         "number": "U+1F60E",
                         "html_code": "&#128526;",
                         "css_class": "u1f400",
-                        "data-symbol": "😎"
+                        "data_symbol": "😎"
                     },
                     {
                         "symbol": "\ud83e\uddd0",
@@ -939,7 +939,7 @@
                         "number": "U+1F9D0",
                         "html_code": "&#129488;",
                         "css_class": "u1f800",
-                        "data-symbol": "🧐"
+                        "data_symbol": "🧐"
                     }
                 ]
             },
@@ -958,7 +958,7 @@
                         "number": "U+1F615",
                         "html_code": "&#128533;",
                         "css_class": "u1f400",
-                        "data-symbol": "😕"
+                        "data_symbol": "😕"
                     },
                     {
                         "symbol": "\ud83d\ude16",
@@ -972,7 +972,7 @@
                         "number": "U+1F616",
                         "html_code": "&#128534;",
                         "css_class": "u1f400",
-                        "data-symbol": "😖"
+                        "data_symbol": "😖"
                     },
                     {
                         "symbol": "\ud83d\ude27",
@@ -986,7 +986,7 @@
                         "number": "U+1F627",
                         "html_code": "&#128551;",
                         "css_class": "u1f400",
-                        "data-symbol": "😧"
+                        "data_symbol": "😧"
                     },
                     {
                         "symbol": "\ud83e\udd7a",
@@ -1000,7 +1000,7 @@
                         "number": "U+1F97A",
                         "html_code": "&#129402;",
                         "css_class": "u1f800",
-                        "data-symbol": "🥺"
+                        "data_symbol": "🥺"
                     },
                     {
                         "symbol": "\ud83d\ude2b",
@@ -1014,7 +1014,7 @@
                         "number": "U+1F62B",
                         "html_code": "&#128555;",
                         "css_class": "u1f400",
-                        "data-symbol": "😫"
+                        "data_symbol": "😫"
                     },
                     {
                         "symbol": "\ud83d\ude31",
@@ -1028,7 +1028,7 @@
                         "number": "U+1F631",
                         "html_code": "&#128561;",
                         "css_class": "u1f400",
-                        "data-symbol": "😱"
+                        "data_symbol": "😱"
                     },
                     {
                         "symbol": "\ud83d\ude1e",
@@ -1042,7 +1042,7 @@
                         "number": "U+1F61E",
                         "html_code": "&#128542;",
                         "css_class": "u1f400",
-                        "data-symbol": "😞"
+                        "data_symbol": "😞"
                     },
                     {
                         "symbol": "\ud83d\ude2f",
@@ -1056,7 +1056,7 @@
                         "number": "U+1F62F",
                         "html_code": "&#128559;",
                         "css_class": "u1f400",
-                        "data-symbol": "😯"
+                        "data_symbol": "😯"
                     },
                     {
                         "symbol": "\ud83d\ude2e",
@@ -1070,7 +1070,7 @@
                         "number": "U+1F62E",
                         "html_code": "&#128558;",
                         "css_class": "u1f400",
-                        "data-symbol": "😮"
+                        "data_symbol": "😮"
                     },
                     {
                         "symbol": "\ud83d\ude2d",
@@ -1084,7 +1084,7 @@
                         "number": "U+1F62D",
                         "html_code": "&#128557;",
                         "css_class": "u1f400",
-                        "data-symbol": "😭"
+                        "data_symbol": "😭"
                     },
                     {
                         "symbol": "\ud83d\ude1f",
@@ -1098,7 +1098,7 @@
                         "number": "U+1F61F",
                         "html_code": "&#128543;",
                         "css_class": "u1f400",
-                        "data-symbol": "😟"
+                        "data_symbol": "😟"
                     },
                     {
                         "symbol": "\ud83d\ude13",
@@ -1112,7 +1112,7 @@
                         "number": "U+1F613",
                         "html_code": "&#128531;",
                         "css_class": "u1f400",
-                        "data-symbol": "😓"
+                        "data_symbol": "😓"
                     },
                     {
                         "symbol": "\ud83d\ude29",
@@ -1126,7 +1126,7 @@
                         "number": "U+1F629",
                         "html_code": "&#128553;",
                         "css_class": "u1f400",
-                        "data-symbol": "😩"
+                        "data_symbol": "😩"
                     },
                     {
                         "symbol": "\ud83d\ude22",
@@ -1140,7 +1140,7 @@
                         "number": "U+1F622",
                         "html_code": "&#128546;",
                         "css_class": "u1f400",
-                        "data-symbol": "😢"
+                        "data_symbol": "😢"
                     },
                     {
                         "symbol": "\ud83d\ude32",
@@ -1154,7 +1154,7 @@
                         "number": "U+1F632",
                         "html_code": "&#128562;",
                         "css_class": "u1f400",
-                        "data-symbol": "😲"
+                        "data_symbol": "😲"
                     },
                     {
                         "symbol": "\ud83d\ude28",
@@ -1168,7 +1168,7 @@
                         "number": "U+1F628",
                         "html_code": "&#128552;",
                         "css_class": "u1f400",
-                        "data-symbol": "😨"
+                        "data_symbol": "😨"
                     },
                     {
                         "symbol": "\ud83e\udd71",
@@ -1182,7 +1182,7 @@
                         "number": "U+1F971",
                         "html_code": "&#129393;",
                         "css_class": "u1f800",
-                        "data-symbol": "🥱"
+                        "data_symbol": "🥱"
                     },
                     {
                         "symbol": "\ud83d\ude33",
@@ -1196,7 +1196,7 @@
                         "number": "U+1F633",
                         "html_code": "&#128563;",
                         "css_class": "u1f400",
-                        "data-symbol": "😳"
+                        "data_symbol": "😳"
                     },
                     {
                         "symbol": "\ud83d\ude41",
@@ -1210,7 +1210,7 @@
                         "number": "U+1F641",
                         "html_code": "&#128577;",
                         "css_class": "u1f400",
-                        "data-symbol": "🙁"
+                        "data_symbol": "🙁"
                     },
                     {
                         "symbol": "\ud83d\ude25",
@@ -1224,7 +1224,7 @@
                         "number": "U+1F625",
                         "html_code": "&#128549;",
                         "css_class": "u1f400",
-                        "data-symbol": "😥"
+                        "data_symbol": "😥"
                     },
                     {
                         "symbol": "\ud83d\ude23",
@@ -1238,7 +1238,7 @@
                         "number": "U+1F623",
                         "html_code": "&#128547;",
                         "css_class": "u1f400",
-                        "data-symbol": "😣"
+                        "data_symbol": "😣"
                     },
                     {
                         "symbol": "\ud83d\ude26",
@@ -1252,7 +1252,7 @@
                         "number": "U+1F626",
                         "html_code": "&#128550;",
                         "css_class": "u1f400",
-                        "data-symbol": "😦"
+                        "data_symbol": "😦"
                     },
                     {
                         "symbol": "\u2639",
@@ -1266,7 +1266,7 @@
                         "number": "U+2639",
                         "html_code": "&#9785;",
                         "css_class": "u2400",
-                        "data-symbol": "☹"
+                        "data_symbol": "☹"
                     },
                     {
                         "symbol": "\ud83d\ude30",
@@ -1280,7 +1280,7 @@
                         "number": "U+1F630",
                         "html_code": "&#128560;",
                         "css_class": "u1f400",
-                        "data-symbol": "😰"
+                        "data_symbol": "😰"
                     }
                 ]
             },
@@ -1299,7 +1299,7 @@
                         "number": "U+2620",
                         "html_code": "&#9760;",
                         "css_class": "u2400",
-                        "data-symbol": "☠"
+                        "data_symbol": "☠"
                     },
                     {
                         "symbol": "\ud83d\ude24",
@@ -1313,7 +1313,7 @@
                         "number": "U+1F624",
                         "html_code": "&#128548;",
                         "css_class": "u1f400",
-                        "data-symbol": "😤"
+                        "data_symbol": "😤"
                     },
                     {
                         "symbol": "\ud83d\ude08",
@@ -1327,7 +1327,7 @@
                         "number": "U+1F608",
                         "html_code": "&#128520;",
                         "css_class": "u1f400",
-                        "data-symbol": "😈"
+                        "data_symbol": "😈"
                     },
                     {
                         "symbol": "\ud83d\ude21",
@@ -1341,7 +1341,7 @@
                         "number": "U+1F621",
                         "html_code": "&#128545;",
                         "css_class": "u1f400",
-                        "data-symbol": "😡"
+                        "data_symbol": "😡"
                     },
                     {
                         "symbol": "\ud83d\udc80",
@@ -1355,7 +1355,7 @@
                         "number": "U+1F480",
                         "html_code": "&#128128;",
                         "css_class": "u1f400",
-                        "data-symbol": "💀"
+                        "data_symbol": "💀"
                     },
                     {
                         "symbol": "\ud83d\udc7f",
@@ -1369,7 +1369,7 @@
                         "number": "U+1F47F",
                         "html_code": "&#128127;",
                         "css_class": "u1f400",
-                        "data-symbol": "👿"
+                        "data_symbol": "👿"
                     },
                     {
                         "symbol": "\ud83e\udd2c",
@@ -1383,7 +1383,7 @@
                         "number": "U+1F92C",
                         "html_code": "&#129324;",
                         "css_class": "u1f800",
-                        "data-symbol": "🤬"
+                        "data_symbol": "🤬"
                     },
                     {
                         "symbol": "\ud83d\ude20",
@@ -1397,7 +1397,7 @@
                         "number": "U+1F620",
                         "html_code": "&#128544;",
                         "css_class": "u1f400",
-                        "data-symbol": "😠"
+                        "data_symbol": "😠"
                     }
                 ]
             },
@@ -1416,7 +1416,7 @@
                         "number": "U+1F4A9",
                         "html_code": "&#128169;",
                         "css_class": "u1f400",
-                        "data-symbol": "💩"
+                        "data_symbol": "💩"
                     },
                     {
                         "symbol": "\ud83e\udd21",
@@ -1430,7 +1430,7 @@
                         "number": "U+1F921",
                         "html_code": "&#129313;",
                         "css_class": "u1f800",
-                        "data-symbol": "🤡"
+                        "data_symbol": "🤡"
                     },
                     {
                         "symbol": "\ud83e\udd16",
@@ -1444,7 +1444,7 @@
                         "number": "U+1F916",
                         "html_code": "&#129302;",
                         "css_class": "u1f800",
-                        "data-symbol": "🤖"
+                        "data_symbol": "🤖"
                     },
                     {
                         "symbol": "\ud83d\udc7d",
@@ -1458,7 +1458,7 @@
                         "number": "U+1F47D",
                         "html_code": "&#128125;",
                         "css_class": "u1f400",
-                        "data-symbol": "👽"
+                        "data_symbol": "👽"
                     },
                     {
                         "symbol": "\ud83d\udc7e",
@@ -1472,7 +1472,7 @@
                         "number": "U+1F47E",
                         "html_code": "&#128126;",
                         "css_class": "u1f400",
-                        "data-symbol": "👾"
+                        "data_symbol": "👾"
                     },
                     {
                         "symbol": "\ud83d\udc7b",
@@ -1486,7 +1486,7 @@
                         "number": "U+1F47B",
                         "html_code": "&#128123;",
                         "css_class": "u1f400",
-                        "data-symbol": "👻"
+                        "data_symbol": "👻"
                     },
                     {
                         "symbol": "\ud83d\udc7a",
@@ -1500,7 +1500,7 @@
                         "number": "U+1F47A",
                         "html_code": "&#128122;",
                         "css_class": "u1f400",
-                        "data-symbol": "👺"
+                        "data_symbol": "👺"
                     },
                     {
                         "symbol": "\ud83d\udc79",
@@ -1514,7 +1514,7 @@
                         "number": "U+1F479",
                         "html_code": "&#128121;",
                         "css_class": "u1f400",
-                        "data-symbol": "👹"
+                        "data_symbol": "👹"
                     }
                 ]
             },
@@ -1533,7 +1533,7 @@
                         "number": "U+1F640",
                         "html_code": "&#128576;",
                         "css_class": "u1f400",
-                        "data-symbol": "🙀"
+                        "data_symbol": "🙀"
                     },
                     {
                         "symbol": "\ud83d\ude3d",
@@ -1547,7 +1547,7 @@
                         "number": "U+1F63D",
                         "html_code": "&#128573;",
                         "css_class": "u1f400",
-                        "data-symbol": "😽"
+                        "data_symbol": "😽"
                     },
                     {
                         "symbol": "\ud83d\ude38",
@@ -1561,7 +1561,7 @@
                         "number": "U+1F638",
                         "html_code": "&#128568;",
                         "css_class": "u1f400",
-                        "data-symbol": "😸"
+                        "data_symbol": "😸"
                     },
                     {
                         "symbol": "\ud83d\ude3f",
@@ -1575,7 +1575,7 @@
                         "number": "U+1F63F",
                         "html_code": "&#128575;",
                         "css_class": "u1f400",
-                        "data-symbol": "😿"
+                        "data_symbol": "😿"
                     },
                     {
                         "symbol": "\ud83d\ude3e",
@@ -1589,7 +1589,7 @@
                         "number": "U+1F63E",
                         "html_code": "&#128574;",
                         "css_class": "u1f400",
-                        "data-symbol": "😾"
+                        "data_symbol": "😾"
                     },
                     {
                         "symbol": "\ud83d\ude3b",
@@ -1603,7 +1603,7 @@
                         "number": "U+1F63B",
                         "html_code": "&#128571;",
                         "css_class": "u1f400",
-                        "data-symbol": "😻"
+                        "data_symbol": "😻"
                     },
                     {
                         "symbol": "\ud83d\ude3a",
@@ -1617,7 +1617,7 @@
                         "number": "U+1F63A",
                         "html_code": "&#128570;",
                         "css_class": "u1f400",
-                        "data-symbol": "😺"
+                        "data_symbol": "😺"
                     },
                     {
                         "symbol": "\ud83d\ude3c",
@@ -1631,7 +1631,7 @@
                         "number": "U+1F63C",
                         "html_code": "&#128572;",
                         "css_class": "u1f400",
-                        "data-symbol": "😼"
+                        "data_symbol": "😼"
                     },
                     {
                         "symbol": "\ud83d\ude39",
@@ -1645,7 +1645,7 @@
                         "number": "U+1F639",
                         "html_code": "&#128569;",
                         "css_class": "u1f400",
-                        "data-symbol": "😹"
+                        "data_symbol": "😹"
                     }
                 ]
             },
@@ -1664,7 +1664,7 @@
                         "number": "U+1F649",
                         "html_code": "&#128585;",
                         "css_class": "u1f400",
-                        "data-symbol": "🙉"
+                        "data_symbol": "🙉"
                     },
                     {
                         "symbol": "\ud83d\ude4a",
@@ -1678,7 +1678,7 @@
                         "number": "U+1F64A",
                         "html_code": "&#128586;",
                         "css_class": "u1f400",
-                        "data-symbol": "🙊"
+                        "data_symbol": "🙊"
                     },
                     {
                         "symbol": "\ud83d\ude48",
@@ -1692,7 +1692,7 @@
                         "number": "U+1F648",
                         "html_code": "&#128584;",
                         "css_class": "u1f400",
-                        "data-symbol": "🙈"
+                        "data_symbol": "🙈"
                     }
                 ]
             },
@@ -1711,7 +1711,7 @@
                         "number": "U+1F5EF",
                         "html_code": "&#128495;",
                         "css_class": "u1f400",
-                        "data-symbol": "🗯"
+                        "data_symbol": "🗯"
                     },
                     {
                         "symbol": "\ud83d\udd73",
@@ -1725,7 +1725,7 @@
                         "number": "U+1F573",
                         "html_code": "&#128371;",
                         "css_class": "u1f400",
-                        "data-symbol": "🕳"
+                        "data_symbol": "🕳"
                     },
                     {
                         "symbol": "\ud83d\udde8",
@@ -1739,7 +1739,7 @@
                         "number": "U+1F5E8",
                         "html_code": "&#128488;",
                         "css_class": "u1f400",
-                        "data-symbol": "🗨"
+                        "data_symbol": "🗨"
                     },
                     {
                         "symbol": "\ud83e\udde1",
@@ -1753,7 +1753,7 @@
                         "number": "U+1F9E1",
                         "html_code": "&#129505;",
                         "css_class": "u1f800",
-                        "data-symbol": "🧡"
+                        "data_symbol": "🧡"
                     },
                     {
                         "symbol": "\ud83d\udc9f",
@@ -1767,7 +1767,7 @@
                         "number": "U+1F49F",
                         "html_code": "&#128159;",
                         "css_class": "u1f400",
-                        "data-symbol": "💟"
+                        "data_symbol": "💟"
                     },
                     {
                         "symbol": "\ud83d\udcad",
@@ -1781,7 +1781,7 @@
                         "number": "U+1F4AD",
                         "html_code": "&#128173;",
                         "css_class": "u1f400",
-                        "data-symbol": "💭"
+                        "data_symbol": "💭"
                     },
                     {
                         "symbol": "\ud83e\udd0e",
@@ -1795,7 +1795,7 @@
                         "number": "U+1F90E",
                         "html_code": "&#129294;",
                         "css_class": "u1f800",
-                        "data-symbol": "🤎"
+                        "data_symbol": "🤎"
                     },
                     {
                         "symbol": "\ud83d\udc9e",
@@ -1809,7 +1809,7 @@
                         "number": "U+1F49E",
                         "html_code": "&#128158;",
                         "css_class": "u1f400",
-                        "data-symbol": "💞"
+                        "data_symbol": "💞"
                     },
                     {
                         "symbol": "\ud83e\udd0d",
@@ -1823,7 +1823,7 @@
                         "number": "U+1F90D",
                         "html_code": "&#129293;",
                         "css_class": "u1f800",
-                        "data-symbol": "🤍"
+                        "data_symbol": "🤍"
                     },
                     {
                         "symbol": "\ud83d\udc8c",
@@ -1837,7 +1837,7 @@
                         "number": "U+1F48C",
                         "html_code": "&#128140;",
                         "css_class": "u1f400",
-                        "data-symbol": "💌"
+                        "data_symbol": "💌"
                     },
                     {
                         "symbol": "\ud83d\udda4",
@@ -1851,7 +1851,7 @@
                         "number": "U+1F5A4",
                         "html_code": "&#128420;",
                         "css_class": "u1f400",
-                        "data-symbol": "🖤"
+                        "data_symbol": "🖤"
                     },
                     {
                         "symbol": "\ud83d\udca2",
@@ -1865,7 +1865,7 @@
                         "number": "U+1F4A2",
                         "html_code": "&#128162;",
                         "css_class": "u1f400",
-                        "data-symbol": "💢"
+                        "data_symbol": "💢"
                     },
                     {
                         "symbol": "\ud83d\udc93",
@@ -1879,7 +1879,7 @@
                         "number": "U+1F493",
                         "html_code": "&#128147;",
                         "css_class": "u1f400",
-                        "data-symbol": "💓"
+                        "data_symbol": "💓"
                     },
                     {
                         "symbol": "\ud83d\udcaf",
@@ -1893,7 +1893,7 @@
                         "number": "U+1F4AF",
                         "html_code": "&#128175;",
                         "css_class": "u1f400",
-                        "data-symbol": "💯"
+                        "data_symbol": "💯"
                     },
                     {
                         "symbol": "\ud83d\udc95",
@@ -1907,7 +1907,7 @@
                         "number": "U+1F495",
                         "html_code": "&#128149;",
                         "css_class": "u1f400",
-                        "data-symbol": "💕"
+                        "data_symbol": "💕"
                     },
                     {
                         "symbol": "\ud83d\udc8b",
@@ -1921,7 +1921,7 @@
                         "number": "U+1F48B",
                         "html_code": "&#128139;",
                         "css_class": "u1f400",
-                        "data-symbol": "💋"
+                        "data_symbol": "💋"
                     },
                     {
                         "symbol": "\ud83d\udca8",
@@ -1935,7 +1935,7 @@
                         "number": "U+1F4A8",
                         "html_code": "&#128168;",
                         "css_class": "u1f400",
-                        "data-symbol": "💨"
+                        "data_symbol": "💨"
                     },
                     {
                         "symbol": "\ud83d\udca6",
@@ -1949,7 +1949,7 @@
                         "number": "U+1F4A6",
                         "html_code": "&#128166;",
                         "css_class": "u1f400",
-                        "data-symbol": "💦"
+                        "data_symbol": "💦"
                     },
                     {
                         "symbol": "\ud83d\udcab",
@@ -1963,7 +1963,7 @@
                         "number": "U+1F4AB",
                         "html_code": "&#128171;",
                         "css_class": "u1f400",
-                        "data-symbol": "💫"
+                        "data_symbol": "💫"
                     },
                     {
                         "symbol": "\ud83d\udc97",
@@ -1977,7 +1977,7 @@
                         "number": "U+1F497",
                         "html_code": "&#128151;",
                         "css_class": "u1f400",
-                        "data-symbol": "💗"
+                        "data_symbol": "💗"
                     },
                     {
                         "symbol": "\ud83d\udc94",
@@ -1991,7 +1991,7 @@
                         "number": "U+1F494",
                         "html_code": "&#128148;",
                         "css_class": "u1f400",
-                        "data-symbol": "💔"
+                        "data_symbol": "💔"
                     },
                     {
                         "symbol": "\ud83d\udc98",
@@ -2005,7 +2005,7 @@
                         "number": "U+1F498",
                         "html_code": "&#128152;",
                         "css_class": "u1f400",
-                        "data-symbol": "💘"
+                        "data_symbol": "💘"
                     },
                     {
                         "symbol": "\ud83d\udc9a",
@@ -2019,7 +2019,7 @@
                         "number": "U+1F49A",
                         "html_code": "&#128154;",
                         "css_class": "u1f400",
-                        "data-symbol": "💚"
+                        "data_symbol": "💚"
                     },
                     {
                         "symbol": "\ud83d\udc99",
@@ -2033,7 +2033,7 @@
                         "number": "U+1F499",
                         "html_code": "&#128153;",
                         "css_class": "u1f400",
-                        "data-symbol": "💙"
+                        "data_symbol": "💙"
                     },
                     {
                         "symbol": "\ud83d\udc9c",
@@ -2047,7 +2047,7 @@
                         "number": "U+1F49C",
                         "html_code": "&#128156;",
                         "css_class": "u1f400",
-                        "data-symbol": "💜"
+                        "data_symbol": "💜"
                     },
                     {
                         "symbol": "\ud83d\udc9b",
@@ -2061,7 +2061,7 @@
                         "number": "U+1F49B",
                         "html_code": "&#128155;",
                         "css_class": "u1f400",
-                        "data-symbol": "💛"
+                        "data_symbol": "💛"
                     },
                     {
                         "symbol": "\ud83d\udca5",
@@ -2075,7 +2075,7 @@
                         "number": "U+1F4A5",
                         "html_code": "&#128165;",
                         "css_class": "u1f400",
-                        "data-symbol": "💥"
+                        "data_symbol": "💥"
                     },
                     {
                         "symbol": "\ud83d\udc96",
@@ -2089,7 +2089,7 @@
                         "number": "U+1F496",
                         "html_code": "&#128150;",
                         "css_class": "u1f400",
-                        "data-symbol": "💖"
+                        "data_symbol": "💖"
                     },
                     {
                         "symbol": "\ud83d\udcac",
@@ -2103,7 +2103,7 @@
                         "number": "U+1F4AC",
                         "html_code": "&#128172;",
                         "css_class": "u1f400",
-                        "data-symbol": "💬"
+                        "data_symbol": "💬"
                     },
                     {
                         "symbol": "\ud83d\udca3",
@@ -2117,7 +2117,7 @@
                         "number": "U+1F4A3",
                         "html_code": "&#128163;",
                         "css_class": "u1f400",
-                        "data-symbol": "💣"
+                        "data_symbol": "💣"
                     },
                     {
                         "symbol": "\ud83d\udca4",
@@ -2131,7 +2131,7 @@
                         "number": "U+1F4A4",
                         "html_code": "&#128164;",
                         "css_class": "u1f400",
-                        "data-symbol": "💤"
+                        "data_symbol": "💤"
                     },
                     {
                         "symbol": "\u2764",
@@ -2145,7 +2145,7 @@
                         "number": "U+2764",
                         "html_code": "&#10084;",
                         "css_class": "u2400",
-                        "data-symbol": "❤"
+                        "data_symbol": "❤"
                     },
                     {
                         "symbol": "\u2763",
@@ -2159,7 +2159,7 @@
                         "number": "U+2763",
                         "html_code": "&#10083;",
                         "css_class": "u2400",
-                        "data-symbol": "❣"
+                        "data_symbol": "❣"
                     },
                     {
                         "symbol": "\ud83d\udc9d",
@@ -2173,8 +2173,94 @@
                         "number": "U+1F49D",
                         "html_code": "&#128157;",
                         "css_class": "u1f400",
-                        "data-symbol": "💝"
+                        "data_symbol": "💝"
                     }
+                ]
+            }
+        ]
+    },
+    {
+        "categoryName": "People & Body",
+        "subCategories": [
+            {
+                "subCategoryName": "Open hand with fingers",
+                "items": [
+                    {
+                        "symbol": "\ud83e\udd1a",
+                        "title": "Raised Back of Hand",
+                        "url": "\/en\/1F91A\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/dc\/962319c82b4907939ec317d9850a02.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F91A",
+                        "html_code": "&#129306;",
+                        "css_class": "u1f800",
+                        "data_symbol": "🤚"
+                    },
+                    {
+                        "symbol": "\ud83d\udd96",
+                        "title": "Raised Hand with Part Between Middle and Ring Fingers",
+                        "url": "\/en\/1F596\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/4b\/bb816ac1e75884024396314726949b.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F596",
+                        "html_code": "&#128406;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🖖"
+                    },
+                    {
+                        "symbol": "\ud83d\udc4b",
+                        "title": "Waving Hand Sign",
+                        "url": "\/en\/1F44B\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/32\/e70ddf12ec8dc727eb8c1e6f4a31dc.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F44B",
+                        "html_code": "&#128075;",
+                        "css_class": "u1f400",
+                        "data_symbol": "👋"
+                    },
+                    {
+                        "symbol": "\ud83d\udd90",
+                        "title": "Raised Hand with Fingers Splayed",
+                        "url": "\/en\/1F590\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/53\/5ed6658a06fe268af0d1959f2ca48e.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F590",
+                        "html_code": "&#128400;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🖐"
+                    },
+                    {
+                        "symbol": "\u270b",
+                        "title": "Raised Hand",
+                        "url": "\/en\/270B\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/3d\/c0bfc28ef2db2eebf66879a2dc37ea.png",
+                        "block": {
+                            "title": "Dingbats",
+                            "url": "\/en\/blocks\/dingbats\/"
+                        },
+                        "number": "U+270B",
+                        "html_code": "&#9995;",
+                        "css_class": "u2400",
+                        "data_symbol": "✋"
+                    }
+                ]
+            },
+            {
+                "subCategoryName": "Partial hand with fingers",
+                "items": [
+                    
                 ]
             }
         ]

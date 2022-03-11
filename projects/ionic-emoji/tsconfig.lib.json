@@ -4,6 +4,8 @@
   "compilerOptions": {
     "outDir": "../../out-tsc/lib",
     "declaration": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,  
     "declarationMap": true,
     "inlineSources": true,
     "types": []

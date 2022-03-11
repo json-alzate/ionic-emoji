@@ -6,6 +6,8 @@ import { Emoji, EmojiPack } from '../models/emoji.model';
 
 import { IonicEmojiService } from '../ionic-emoji.service';
 
+import emojisPacks from '../../resources/emojis.json';
+
 
 @Component({
   selector: 'lib-emojis-container',
@@ -20,18 +22,22 @@ export class EmojisContainerComponent implements OnInit {
 
   constructor(
     private ionicEmojiService: IonicEmojiService
-  ) { }
+  ) {
+    this.allEmojisPacks = emojisPacks as EmojiPack[];
+   }
 
   ngOnInit(): void {
   }
 
 
   getEmojis() {
-    this.ionicEmojiService.getEmojis().subscribe(data => {
-      if (data) {
-        this.allEmojisPacks = data;
-      }
-    })
+    console.log('emojisPacks ', emojisPacks);
+    
+    // this.ionicEmojiService.getEmojis().subscribe(data => {
+    //   if (data) {
+    //     this.allEmojisPacks = data;
+    //   }
+    // })
   }
 
 }

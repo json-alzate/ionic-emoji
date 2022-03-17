@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, Output, EventEmitter } from '@angular/core';
 
 @Component({
   selector: 'lib-segments',
@@ -7,9 +7,15 @@ import { Component, OnInit } from '@angular/core';
 })
 export class SegmentsComponent implements OnInit {
 
+  @Output() changeSegment = new EventEmitter<string>();
+
   constructor() { }
 
   ngOnInit(): void {
+  }
+
+  goToSegment(event: any) {
+    this.changeSegment.emit(event?.detail?.value);
   }
 
 }

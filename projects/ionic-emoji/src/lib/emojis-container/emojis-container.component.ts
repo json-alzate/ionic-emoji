@@ -1,4 +1,5 @@
-import { Component, OnInit, Input } from '@angular/core';
+import { Component, OnInit, Input, ViewChildren, ElementRef, QueryList } from '@angular/core';
+import { IonItemGroup } from '@ionic/angular';
 import { Observable, Observer } from 'rxjs';
 
 
@@ -16,28 +17,39 @@ import emojisPacks from '../../resources/emojis.json';
 })
 export class EmojisContainerComponent implements OnInit {
 
+  allEmojisPacks: EmojiPack[] = [];
+  @ViewChildren(IonItemGroup, { read: ElementRef }) itemGroups!: QueryList<any>;
+
   // presentation
   // @Input() presentationMode: 'modal' | 'popover' | null;
-  allEmojisPacks: EmojiPack[] = [];
+
 
   constructor(
     private ionicEmojiService: IonicEmojiService
   ) {
     this.allEmojisPacks = emojisPacks as EmojiPack[];
-   }
+  }
 
   ngOnInit(): void {
   }
 
+  // scroll to pack
+  onGoToSegment(segment: string) {
 
-  getEmojis() {
-    console.log('emojisPacks ', emojisPacks);
-    
-    // this.ionicEmojiService.getEmojis().subscribe(data => {
-    //   if (data) {
-    //     this.allEmojisPacks = data;
-    //   }
-    // })
+    for (let i = 0; i < this.allEmojisPacks.length; i++) {
+      const pack = this.allEmojisPacks[i];
+
+      if (segment === pack.categoryName) {
+        const group = this.itemGroups.filter((element, index) => index === i);
+        if (group) {
+          const el: any = group[0];
+          el.nativeElement.scrollIntoView();
+          return;
+        }
+      }
+
+    }
+
   }
 
 }

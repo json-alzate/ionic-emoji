@@ -1,18 +1,18 @@
-<ion-segment scrollable value="faces">
+<ion-segment scrollable (ionChange)="goToSegment($event)" value="Smileys & Emotion">
 
     <ion-segment-button value="recent">
         <ion-icon name="time-outline"></ion-icon>
     </ion-segment-button>
-    <ion-segment-button value="faces">
+    <ion-segment-button value="Smileys & Emotion">
         <ion-icon name="happy-outline"></ion-icon>
     </ion-segment-button>
-    <ion-segment-button value="body">
+    <ion-segment-button value="People & Body">
         <ion-icon name="body-outline"></ion-icon>
     </ion-segment-button>
-    <ion-segment-button value="animals">
+    <ion-segment-button value="Animals & Nature">
         <ion-icon name="paw-outline"></ion-icon>
     </ion-segment-button>
-    <ion-segment-button value="food">
+    <ion-segment-button value="Food & Drink">
         <ion-icon name="restaurant-outline"></ion-icon>
     </ion-segment-button>
     <ion-segment-button value="travel">

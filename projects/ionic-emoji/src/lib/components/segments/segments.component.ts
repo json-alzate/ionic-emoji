@@ -23,43 +23,53 @@ export class SegmentsComponent implements OnInit {
   segments = [
     {
       value: 'recent',
-      icon: 'time-outline'
+      icon: 'time-outline',
+      disabled: true
     },
     {
       value: 'Smileys & Emotion',
-      icon: 'happy-outline'
+      icon: 'happy-outline',
+      disabled: false
     },
     {
       value: 'People & Body',
-      icon: 'body-outline'
+      icon: 'body-outline',
+      disabled: false
     },
     {
       value: 'Animals & Nature',
-      icon: 'paw-outline'
+      icon: 'paw-outline',
+      disabled: false
     },
     {
       value: 'Food & Drink',
-      icon: 'restaurant-outline'
+      icon: 'restaurant-outline',
+      disabled: false
     },
     {
       value: 'travel',
-      icon: 'airplane-outline'
+      icon: 'airplane-outline',
+      disabled: true
     },
     {
       value: 'activities',
-      icon: 'bicycle-outline'
+      icon: 'bicycle-outline',
+      disabled: true
     },
     {
       value: 'objects',
-      icon: 'shirt-outline'
+      icon: 'shirt-outline',
+      disabled: true
     },
     {
       value: 'symbols',
-      icon: 'git-branch-outline'
+      icon: 'git-branch-outline',
+      disabled: true
     },
     {
       value: 'flags',
-      icon: 'flag-outline'
+      icon: 'flag-outline',
+      disabled: true
     }
   ]
 

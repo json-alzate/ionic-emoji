@@ -1,6 +1,7 @@
 <ion-segment scrollable [value]="valueSegment">
 
-    <ion-segment-button *ngFor="let segment of segments" (click)="goToSegment(segment.value)" [value]="segment.value">
+    <ion-segment-button *ngFor="let segment of segments" (click)="goToSegment(segment.value)" [value]="segment.value"
+        [disabled]="segment.disabled">
         <ion-icon [name]="segment.icon"></ion-icon>
     </ion-segment-button>
 </ion-segment>

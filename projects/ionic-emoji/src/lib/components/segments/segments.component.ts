@@ -1,15 +1,87 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, Output, EventEmitter, Input, ChangeDetectionStrategy, ChangeDetectorRef } from '@angular/core';
 
 @Component({
   selector: 'lib-segments',
   templateUrl: './segments.component.html',
-  styleUrls: ['./segments.component.css']
+  styleUrls: ['./segments.component.css'],
+  changeDetection: ChangeDetectionStrategy.OnPush
 })
 export class SegmentsComponent implements OnInit {
 
-  constructor() { }
+  @Output() changeSegment = new EventEmitter<string>();
+  @Input() valueSegment: string = 'Smileys & Emotion';
+
+  @Input()
+  set setSegment(segment: number) {
+    if (segment) {
+      this.valueSegment = this.segments[segment].value;
+      this.changeDetectorRef.markForCheck();
+    }
+  }
+
+
+  segments = [
+    {
+      value: 'recent',
+      icon: 'time-outline',
+      disabled: true
+    },
+    {
+      value: 'Smileys & Emotion',
+      icon: 'happy-outline',
+      disabled: false
+    },
+    {
+      value: 'People & Body',
+      icon: 'body-outline',
+      disabled: false
+    },
+    {
+      value: 'Animals & Nature',
+      icon: 'paw-outline',
+      disabled: false
+    },
+    {
+      value: 'Food & Drink',
+      icon: 'restaurant-outline',
+      disabled: false
+    },
+    {
+      value: 'travel',
+      icon: 'airplane-outline',
+      disabled: true
+    },
+    {
+      value: 'activities',
+      icon: 'bicycle-outline',
+      disabled: true
+    },
+    {
+      value: 'objects',
+      icon: 'shirt-outline',
+      disabled: true
+    },
+    {
+      value: 'symbols',
+      icon: 'git-branch-outline',
+      disabled: true
+    },
+    {
+      value: 'flags',
+      icon: 'flag-outline',
+      disabled: true
+    }
+  ]
+
+  constructor(
+    private changeDetectorRef: ChangeDetectorRef
+  ) { }
 
   ngOnInit(): void {
+  }
+
+  goToSegment(value: string) {
+    this.changeSegment.emit(value);
   }
 
 }

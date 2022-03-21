@@ -1,11 +1,9 @@
 <ion-header>
-    <lib-segments (changeSegment)="onGoToSegment($event)"></lib-segments>
+    <lib-segments [setSegment]="toSetSegment" (changeSegment)="onGoToSegment($event)"></lib-segments>
     <lib-search></lib-search>
 </ion-header>
 
-<ion-content>
-
-
+<ion-content scrollEvents="true" (ionScroll)="onScroll($event)">
 
     <ion-item-group *ngFor="let pack of allEmojisPacks">
         <ion-item-divider sticky>

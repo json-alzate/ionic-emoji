@@ -1,34 +1,6 @@
-<ion-segment scrollable (ionChange)="goToSegment($event)" value="Smileys & Emotion">
+<ion-segment scrollable [value]="valueSegment">
 
-    <ion-segment-button value="recent">
-        <ion-icon name="time-outline"></ion-icon>
+    <ion-segment-button *ngFor="let segment of segments" (click)="goToSegment(segment.value)" [value]="segment.value">
+        <ion-icon [name]="segment.icon"></ion-icon>
     </ion-segment-button>
-    <ion-segment-button value="Smileys & Emotion">
-        <ion-icon name="happy-outline"></ion-icon>
-    </ion-segment-button>
-    <ion-segment-button value="People & Body">
-        <ion-icon name="body-outline"></ion-icon>
-    </ion-segment-button>
-    <ion-segment-button value="Animals & Nature">
-        <ion-icon name="paw-outline"></ion-icon>
-    </ion-segment-button>
-    <ion-segment-button value="Food & Drink">
-        <ion-icon name="restaurant-outline"></ion-icon>
-    </ion-segment-button>
-    <ion-segment-button value="travel">
-        <ion-icon name="airplane-outline"></ion-icon>
-    </ion-segment-button>
-    <ion-segment-button value="activities">
-        <ion-icon name="bicycle-outline"></ion-icon>
-    </ion-segment-button>
-    <ion-segment-button value="objects">
-        <ion-icon name="shirt-outline"></ion-icon>
-    </ion-segment-button>
-    <ion-segment-button value="symbols">
-        <ion-icon name="git-branch-outline"></ion-icon>
-    </ion-segment-button>
-    <ion-segment-button value="flags">
-        <ion-icon name="flag-outline"></ion-icon>
-    </ion-segment-button>
-
 </ion-segment>

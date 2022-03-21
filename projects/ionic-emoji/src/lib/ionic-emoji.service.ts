@@ -6,6 +6,7 @@ import { ModalController } from '@ionic/angular';
 import { Emoji, EmojiPack } from './models/emoji.model';
 
 import { EmojisContainerComponent } from './emojis-container/emojis-container.component';
+import { Observable, Observer } from 'rxjs';
 
 
 
@@ -14,24 +15,42 @@ import { EmojisContainerComponent } from './emojis-container/emojis-container.co
 })
 export class IonicEmojiService {
 
+  private observerEmoji!: Observer<Emoji>;
+
   constructor(
     private httpClient: HttpClient,
     private modalController: ModalController
   ) { }
 
   getEmojis() {
-   return this.httpClient.get<EmojiPack[]>('/resources/emojis.json');
+    return this.httpClient.get<EmojiPack[]>('/resources/emojis.json');
   }
 
 
-  async presentModal() {
+  presentModal(): Observable<Emoji> {
+
+    this.openModal()
+
+    const emoji$ = new Observable<Emoji>((sub) => {
+      this.observerEmoji = sub;
+    });
+
+    return emoji$;
+
+  }
+
+  private async openModal() {
     const modal = await this.modalController.create({
       component: EmojisContainerComponent,
       componentProps: { value: 123 }
     });
 
     await modal.present();
+  }
 
+  closeModal(emoji: Emoji) {
+    this.observerEmoji.next(emoji);
+    this.modalController.dismiss();
   }
 
 }

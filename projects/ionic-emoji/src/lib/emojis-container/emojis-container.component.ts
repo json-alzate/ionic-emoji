@@ -84,7 +84,7 @@ export class EmojisContainerComponent implements OnInit, AfterViewInit {
     const result = arrValues.sort((a, b) => {
       return a.top - b.top;
     });
-    if (result.length > 0) {      
+    if (result.length > 0) {
       this.toSetSegment = result[0].value + 1;
     }
   }
@@ -94,6 +94,12 @@ export class EmojisContainerComponent implements OnInit, AfterViewInit {
     console.log(rect.y);
 
     return (parseInt(rect.height) + parseInt(rect.top)) - 100 > 0;
+  }
+
+
+  // Select emoji
+  selectEmoji(item: Emoji) {
+    this.ionicEmojiService.closeModal(item);
   }
 
 }

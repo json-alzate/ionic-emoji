@@ -24,7 +24,7 @@
 
                 <ion-row>
                     <ion-col class="ion-no-margin ion-no-padding" size="1" *ngFor="let item of subCategory.items">
-                        <ion-button expand="block" fill="clear">
+                        <ion-button expand="block" fill="clear" (click)="selectEmoji(item)" >
                             <span style="font-size: 28px;" slot="icon-only">
                                 {{ item.data_symbol }}
                             </span>

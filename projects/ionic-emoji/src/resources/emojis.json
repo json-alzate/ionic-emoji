@@ -7095,6 +7095,885 @@
                         "data_symbol": "🥣"
                     }
                 ]
+            },
+            {
+                "subCategoryName": "Asian food",
+                "items": [
+                    {
+                        "symbol": "\ud83e\udd61",
+                        "title": "Takeout Box",
+                        "url": "\/en\/1F961\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/77\/2a5c4ba432bab721ecf12774bde416.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F961",
+                        "html_code": "&#129377;",
+                        "css_class": "u1f800",
+                        "data_symbol": "🥡"
+                    },
+                    {
+                        "symbol": "\ud83c\udf5a",
+                        "title": "Cooked Rice",
+                        "url": "\/en\/1F35A\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/e5\/a9b462eaf690ee2e3a65abd65ba0f0.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F35A",
+                        "html_code": "&#127834;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🍚"
+                    },
+                    {
+                        "symbol": "\ud83c\udf59",
+                        "title": "Rice Ball",
+                        "url": "\/en\/1F359\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/d4\/075301091b432dbd6e336ab4b19beb.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F359",
+                        "html_code": "&#127833;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🍙"
+                    },
+                    {
+                        "symbol": "\ud83c\udf58",
+                        "title": "Rice Cracker",
+                        "url": "\/en\/1F358\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/bc\/fc4dbee799c71ae6e2b1417e0335b0.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F358",
+                        "html_code": "&#127832;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🍘"
+                    },
+                    {
+                        "symbol": "\ud83c\udf71",
+                        "title": "Bento Box",
+                        "url": "\/en\/1F371\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/3d\/772f96bc53167955abc7bd66905a1e.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F371",
+                        "html_code": "&#127857;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🍱"
+                    },
+                    {
+                        "symbol": "\ud83e\udd60",
+                        "title": "Fortune Cookie",
+                        "url": "\/en\/1F960\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/9f\/943296be22efd89ee056947b7afd42.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F960",
+                        "html_code": "&#129376;",
+                        "css_class": "u1f800",
+                        "data_symbol": "🥠"
+                    },
+                    {
+                        "symbol": "\ud83c\udf5b",
+                        "title": "Curry and Rice",
+                        "url": "\/en\/1F35B\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/4e\/b26296d0f87487deeafcf80450e680.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F35B",
+                        "html_code": "&#127835;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🍛"
+                    },
+                    {
+                        "symbol": "\ud83c\udf60",
+                        "title": "Roasted Sweet Potato",
+                        "url": "\/en\/1F360\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/d2\/8182ad866e267f019160795b096414.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F360",
+                        "html_code": "&#127840;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🍠"
+                    },
+                    {
+                        "symbol": "\ud83e\udd6e",
+                        "title": "Moon Cake",
+                        "url": "\/en\/1F96E\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/e6\/3274414ee39f03a5b3ae41322f17ef.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F96E",
+                        "html_code": "&#129390;",
+                        "css_class": "u1f800",
+                        "data_symbol": "🥮"
+                    },
+                    {
+                        "symbol": "\ud83c\udf62",
+                        "title": "Oden",
+                        "url": "\/en\/1F362\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/e3\/5af98075c2dd6a8a8bc4faba57d954.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F362",
+                        "html_code": "&#127842;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🍢"
+                    },
+                    {
+                        "symbol": "\ud83c\udf61",
+                        "title": "Dango",
+                        "url": "\/en\/1F361\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/ce\/48cebdbcb3d123fc1c7bc0f099bf71.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F361",
+                        "html_code": "&#127841;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🍡"
+                    },
+                    {
+                        "symbol": "\ud83c\udf64",
+                        "title": "Fried Shrimp",
+                        "url": "\/en\/1F364\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/5f\/938c31ca80cba422af26e14841e16f.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F364",
+                        "html_code": "&#127844;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🍤"
+                    },
+                    {
+                        "symbol": "\ud83c\udf63",
+                        "title": "Sushi",
+                        "url": "\/en\/1F363\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/72\/f5edfe6db1ceaca125ec91df4b8410.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F363",
+                        "html_code": "&#127843;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🍣"
+                    },
+                    {
+                        "symbol": "\ud83c\udf65",
+                        "title": "Fish Cake with Swirl Design",
+                        "url": "\/en\/1F365\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/1d\/fc243686710cc5b44488d34c95e8e7.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F365",
+                        "html_code": "&#127845;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🍥"
+                    },
+                    {
+                        "symbol": "\ud83c\udf5d",
+                        "title": "Spaghetti",
+                        "url": "\/en\/1F35D\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/8d\/2684f35da7e2f075f286deaf5cf753.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F35D",
+                        "html_code": "&#127837;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🍝"
+                    },
+                    {
+                        "symbol": "\ud83c\udf5c",
+                        "title": "Steaming Bowl",
+                        "url": "\/en\/1F35C\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/a6\/55885b336b92b311e3c4bbe178c6e1.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F35C",
+                        "html_code": "&#127836;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🍜"
+                    },
+                    {
+                        "symbol": "\ud83e\udd5f",
+                        "title": "Dumpling",
+                        "url": "\/en\/1F95F\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/89\/e66dec2fcfd60e3bc0ef005ef85fea.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F95F",
+                        "html_code": "&#129375;",
+                        "css_class": "u1f800",
+                        "data_symbol": "🥟"
+                    }
+                ]
+            },
+            {
+                "subCategoryName": "Sea food",
+                "items": [
+                    {
+                        "symbol": "\ud83e\udd9e",
+                        "title": "Lobster",
+                        "url": "\/en\/1F99E\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/75\/3628a292cdc5289fbe17da423d0ecb.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F99E",
+                        "html_code": "&#129438;",
+                        "css_class": "u1f800",
+                        "data_symbol": "🦞"
+                    },
+                    {
+                        "symbol": "\ud83e\uddaa",
+                        "title": "Oyster",
+                        "url": "\/en\/1F9AA\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/35\/e820681914b644dbc264187cf7bcc9.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F9AA",
+                        "html_code": "&#129450;",
+                        "css_class": "u1f800",
+                        "data_symbol": "🦪"
+                    },
+                    {
+                        "symbol": "\ud83e\udd80",
+                        "title": "Crab",
+                        "url": "\/en\/1F980\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/db\/492262da2f23bfcd404f510c502257.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F980",
+                        "html_code": "&#129408;",
+                        "css_class": "u1f800",
+                        "data_symbol": "🦀"
+                    },
+                    {
+                        "symbol": "\ud83e\udd91",
+                        "title": "Squid",
+                        "url": "\/en\/1F991\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/d9\/0e74766686cacbd427f27c6f0c1561.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F991",
+                        "html_code": "&#129425;",
+                        "css_class": "u1f800",
+                        "data_symbol": "🦑"
+                    },
+                    {
+                        "symbol": "\ud83e\udd90",
+                        "title": "Shrimp",
+                        "url": "\/en\/1F990\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/1f\/3e4564dccfa3b5baf2aa5314065192.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F990",
+                        "html_code": "&#129424;",
+                        "css_class": "u1f800",
+                        "data_symbol": "🦐"
+                    }
+                ]
+            },
+            {
+                "subCategoryName": "Sweet food",
+                "items": [
+                    {
+                        "symbol": "\ud83c\udf6b",
+                        "title": "Chocolate Bar",
+                        "url": "\/en\/1F36B\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/eb\/89bb10a4c2563b4f448e51340d7e39.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F36B",
+                        "html_code": "&#127851;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🍫"
+                    },
+                    {
+                        "symbol": "\ud83c\udf66",
+                        "title": "Soft Ice Cream",
+                        "url": "\/en\/1F366\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/fd\/c08972ea34c5a98da768034f6e7597.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F366",
+                        "html_code": "&#127846;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🍦"
+                    },
+                    {
+                        "symbol": "\ud83c\udf67",
+                        "title": "Shaved Ice",
+                        "url": "\/en\/1F367\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/bd\/4703fd241fdabf91fbe79d1297c754.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F367",
+                        "html_code": "&#127847;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🍧"
+                    },
+                    {
+                        "symbol": "\ud83c\udf6c",
+                        "title": "Candy",
+                        "url": "\/en\/1F36C\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/3c\/6c76eaa8a2bca9cdf8957cb8485ddf.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F36C",
+                        "html_code": "&#127852;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🍬"
+                    },
+                    {
+                        "symbol": "\ud83c\udf69",
+                        "title": "Doughnut",
+                        "url": "\/en\/1F369\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/3e\/ad8f24a0751f94481c160e1a32b158.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F369",
+                        "html_code": "&#127849;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🍩"
+                    },
+                    {
+                        "symbol": "\ud83c\udf6a",
+                        "title": "Cookie",
+                        "url": "\/en\/1F36A\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/d2\/5e6688aec4cc3bc62f83c1448a07cf.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F36A",
+                        "html_code": "&#127850;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🍪"
+                    },
+                    {
+                        "symbol": "\ud83c\udf68",
+                        "title": "Ice Cream",
+                        "url": "\/en\/1F368\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/26\/5f3fdbdb7769f01ff0ea9e28eb3234.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F368",
+                        "html_code": "&#127848;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🍨"
+                    },
+                    {
+                        "symbol": "\ud83c\udf6f",
+                        "title": "Honey Pot",
+                        "url": "\/en\/1F36F\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/77\/fa59202d0c83e287ea903858724694.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F36F",
+                        "html_code": "&#127855;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🍯"
+                    },
+                    {
+                        "symbol": "\ud83e\uddc1",
+                        "title": "Cupcake",
+                        "url": "\/en\/1F9C1\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/79\/7acd71a198c99768b62a142b1565b0.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F9C1",
+                        "html_code": "&#129473;",
+                        "css_class": "u1f800",
+                        "data_symbol": "🧁"
+                    },
+                    {
+                        "symbol": "\ud83c\udf6d",
+                        "title": "Lollipop",
+                        "url": "\/en\/1F36D\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/be\/822852128e4dc0bf663ff90677df61.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F36D",
+                        "html_code": "&#127853;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🍭"
+                    },
+                    {
+                        "symbol": "\ud83e\udd67",
+                        "title": "Pie",
+                        "url": "\/en\/1F967\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/77\/6756103424ebac500d0c79a6761c95.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F967",
+                        "html_code": "&#129383;",
+                        "css_class": "u1f800",
+                        "data_symbol": "🥧"
+                    },
+                    {
+                        "symbol": "\ud83c\udf6e",
+                        "title": "Custard",
+                        "url": "\/en\/1F36E\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/92\/05e52ce1998b9f3a3fb62f0d8be553.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F36E",
+                        "html_code": "&#127854;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🍮"
+                    },
+                    {
+                        "symbol": "\ud83c\udf70",
+                        "title": "Shortcake",
+                        "url": "\/en\/1F370\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/a5\/6759cc5976f536c798124eda85cb7a.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F370",
+                        "html_code": "&#127856;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🍰"
+                    },
+                    {
+                        "symbol": "\ud83c\udf82",
+                        "title": "Birthday Cake",
+                        "url": "\/en\/1F382\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/24\/7da83228ffeb848f5d78825bea9353.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F382",
+                        "html_code": "&#127874;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🎂"
+                    }
+                ]
+            },
+            {
+                "subCategoryName": "Drink",
+                "items": [
+                    {
+                        "symbol": "\ud83e\udd43",
+                        "title": "Tumbler Glass",
+                        "url": "\/en\/1F943\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/56\/6281e018e452c2bd7cc6e7ddc0d945.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F943",
+                        "html_code": "&#129347;",
+                        "css_class": "u1f800",
+                        "data_symbol": "🥃"
+                    },
+                    {
+                        "symbol": "\ud83e\udd42",
+                        "title": "Clinking Glasses",
+                        "url": "\/en\/1F942\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/be\/c7aaa3ff4548143fc1bbae97e7ec68.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F942",
+                        "html_code": "&#129346;",
+                        "css_class": "u1f800",
+                        "data_symbol": "🥂"
+                    },
+                    {
+                        "symbol": "\ud83c\udf7a",
+                        "title": "Beer Mug",
+                        "url": "\/en\/1F37A\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/a5\/71a424fcea3aa44956d5d48cda4b00.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F37A",
+                        "html_code": "&#127866;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🍺"
+                    },
+                    {
+                        "symbol": "\ud83e\uddc9",
+                        "title": "Mate Drink",
+                        "url": "\/en\/1F9C9\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/58\/454876c99fb753142ee906c46b1ac6.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F9C9",
+                        "html_code": "&#129481;",
+                        "css_class": "u1f800",
+                        "data_symbol": "🧉"
+                    },
+                    {
+                        "symbol": "\u2615",
+                        "title": "Hot Beverage",
+                        "url": "\/en\/2615\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/e7\/a2f17a1c5194fd497ca27cd01ad1c7.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols",
+                            "url": "\/en\/blocks\/miscellaneous-symbols\/"
+                        },
+                        "number": "U+2615",
+                        "html_code": "&#9749;",
+                        "css_class": "u2400",
+                        "data_symbol": "☕"
+                    },
+                    {
+                        "symbol": "\ud83e\udd64",
+                        "title": "Cup With Straw",
+                        "url": "\/en\/1F964\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/d2\/d026f1c2e0dd36f32b1f507cf71678.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F964",
+                        "html_code": "&#129380;",
+                        "css_class": "u1f800",
+                        "data_symbol": "🥤"
+                    },
+                    {
+                        "symbol": "\ud83e\uddc3",
+                        "title": "Beverage Box",
+                        "url": "\/en\/1F9C3\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/58\/85e4a6360764c524fb4cda3deac465.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F9C3",
+                        "html_code": "&#129475;",
+                        "css_class": "u1f800",
+                        "data_symbol": "🧃"
+                    },
+                    {
+                        "symbol": "\ud83c\udf7e",
+                        "title": "Bottle with Popping Cork",
+                        "url": "\/en\/1F37E\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/8e\/551b6c673ead4e4aa26c78103d739a.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F37E",
+                        "html_code": "&#127870;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🍾"
+                    },
+                    {
+                        "symbol": "\ud83e\udd5b",
+                        "title": "Glass of Milk",
+                        "url": "\/en\/1F95B\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/d6\/a3758b3d2a22d14fb1dcabcc419be2.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F95B",
+                        "html_code": "&#129371;",
+                        "css_class": "u1f800",
+                        "data_symbol": "🥛"
+                    },
+                    {
+                        "symbol": "\ud83e\uded6",
+                        "title": "Teapot",
+                        "url": "\/en\/1FAD6\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/b2\/7d919bb863b13f7404a2674646a90c.png",
+                        "block": {
+                            "title": "Symbols and Pictographs Extended-A",
+                            "url": "\/en\/blocks\/symbols-and-pictographs-extended-a\/"
+                        },
+                        "number": "U+1FAD6",
+                        "html_code": "&#129750;",
+                        "css_class": "u1f800",
+                        "data_symbol": "🫖"
+                    },
+                    {
+                        "symbol": "\ud83c\udf79",
+                        "title": "Tropical Drink",
+                        "url": "\/en\/1F379\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/57\/97ca34dbe51b21d48062385ebaec8c.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F379",
+                        "html_code": "&#127865;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🍹"
+                    },
+                    {
+                        "symbol": "\ud83c\udf75",
+                        "title": "Teacup Without Handle",
+                        "url": "\/en\/1F375\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/5a\/bd0ed302d059e64ef0ff24a76a6b2b.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F375",
+                        "html_code": "&#127861;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🍵"
+                    },
+                    {
+                        "symbol": "\ud83c\udf7b",
+                        "title": "Clinking Beer Mugs",
+                        "url": "\/en\/1F37B\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/fd\/4d656a393e78d941365183ad0e3203.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F37B",
+                        "html_code": "&#127867;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🍻"
+                    },
+                    {
+                        "symbol": "\ud83e\uddca",
+                        "title": "Ice Cube",
+                        "url": "\/en\/1F9CA\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/52\/f0f94e1de28eaed0101bc561a483d7.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F9CA",
+                        "html_code": "&#129482;",
+                        "css_class": "u1f800",
+                        "data_symbol": "🧊"
+                    },
+                    {
+                        "symbol": "\ud83c\udf7c",
+                        "title": "Baby Bottle",
+                        "url": "\/en\/1F37C\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/5d\/4e079fe6eafbfa4c171742a37659f0.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F37C",
+                        "html_code": "&#127868;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🍼"
+                    },
+                    {
+                        "symbol": "\ud83e\uddcb",
+                        "title": "Bubble Tea",
+                        "url": "\/en\/1F9CB\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/8a\/9a763e9b0ff74147c8c3bdac0ab9ae.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F9CB",
+                        "html_code": "&#129483;",
+                        "css_class": "u1f800",
+                        "data_symbol": "🧋"
+                    },
+                    {
+                        "symbol": "\ud83c\udf76",
+                        "title": "Sake Bottle and Cup",
+                        "url": "\/en\/1F376\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/25\/aa4aecaf90b8b885c650139d5f325c.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F376",
+                        "html_code": "&#127862;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🍶"
+                    },
+                    {
+                        "symbol": "\ud83c\udf77",
+                        "title": "Wine Glass",
+                        "url": "\/en\/1F377\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/8a\/695bc83cb846d577cb786a10426cca.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F377",
+                        "html_code": "&#127863;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🍷"
+                    },
+                    {
+                        "symbol": "\ud83c\udf78",
+                        "title": "Cocktail Glass",
+                        "url": "\/en\/1F378\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/c1\/60af2f19c21b417012770a0f5f8173.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F378",
+                        "html_code": "&#127864;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🍸"
+                    }
+                ]
+            },
+            {
+                "subCategoryName": "Dishware",
+                "items": [
+                    {
+                        "symbol": "\ud83c\udf74",
+                        "title": "Fork and Knife",
+                        "url": "\/en\/1F374\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/a7\/7236e22a50b938c8eb121fc4ade056.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F374",
+                        "html_code": "&#127860;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🍴"
+                    },
+                    {
+                        "symbol": "\ud83e\udd44",
+                        "title": "Spoon",
+                        "url": "\/en\/1F944\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/a3\/7f1016a3340b25ed590b765717e153.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F944",
+                        "html_code": "&#129348;",
+                        "css_class": "u1f800",
+                        "data_symbol": "🥄"
+                    },
+                    {
+                        "symbol": "\ud83d\udd2a",
+                        "title": "Hocho",
+                        "url": "\/en\/1F52A\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/d1\/99732e2b0d9fca39709cbc33ad172a.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F52A",
+                        "html_code": "&#128298;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🔪"
+                    },
+                    {
+                        "symbol": "\ud83e\udd62",
+                        "title": "Chopsticks",
+                        "url": "\/en\/1F962\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/eb\/df6232cfa074d7942abc841c697b67.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F962",
+                        "html_code": "&#129378;",
+                        "css_class": "u1f800",
+                        "data_symbol": "🥢"
+                    },
+                    {
+                        "symbol": "\ud83c\udffa",
+                        "title": "Amphora",
+                        "url": "\/en\/1F3FA\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/e2\/92aaea87e934e034af92fc1ca9b935.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F3FA",
+                        "html_code": "&#127994;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🏺"
+                    },
+                    {
+                        "symbol": "\ud83c\udf7d",
+                        "title": "Fork and Knife with Plate",
+                        "url": "\/en\/1F37D\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/4c\/744461a2b4878a3c369e13298a90ab.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F37D",
+                        "html_code": "&#127869;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🍽"
+                    }
+                ]
             }
         ]
     }

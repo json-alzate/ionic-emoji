@@ -7976,5 +7976,43 @@
                 ]
             }
         ]
+    },
+    {
+        "categoryName": "Travel & places",
+        "subCategories": [
+            {
+                "subCategoryName": "Map",
+                "items": [
+                    {
+                        "symbol": "\ud83c\udf0f",
+                        "title": "Earth Globe Asia-Australia",
+                        "url": "\/en\/1F30F\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/c8\/fe79adcb9f556cb15553d521c419ae.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F30F",
+                        "html_code": "&#127759;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🌏"
+                    },
+                    {
+                        "symbol": "\ud83e\udded",
+                        "title": "Compass",
+                        "url": "\/en\/1F9ED\/",
+                        "image": "https:\/\/uc-emoji.azureedge.net\/orig\/a6\/03a49439039910633b7897247d47bf.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F9ED",
+                        "html_code": "&#129517;",
+                        "css_class": "u1f800",
+                        "data_symbol": "🧭"
+                    }
+                ]
+            }
+        ]
     }
 ]

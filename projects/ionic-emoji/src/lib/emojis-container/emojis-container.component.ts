@@ -25,6 +25,10 @@ export class EmojisContainerComponent implements OnInit, AfterViewInit {
   elementGroups: any[] = [];
   toSetSegment: number = 0;
 
+  // for Search
+  showSearchResults = false;
+  searchResultsEmoji: Emoji[] = [];
+
   constructor(
     private ionicEmojiService: IonicEmojiService
   ) {
@@ -37,16 +41,11 @@ export class EmojisContainerComponent implements OnInit, AfterViewInit {
 
 
   ngAfterViewInit(): void {
-    console.log(this.itemGroups);
     this.elementGroups = [];
     for (let i = 0; i < this.allEmojisPacks.length; i++) {
       const group = this.itemGroups.filter((element, index) => index === i)[0];
       this.elementGroups.push(group);
     }
-
-    console.log(this.elementGroups);
-
-
   }
 
   // scroll to pack
@@ -94,6 +93,22 @@ export class EmojisContainerComponent implements OnInit, AfterViewInit {
     console.log(rect.y);
 
     return (parseInt(rect.height) + parseInt(rect.top)) - 100 > 0;
+  }
+
+  // Search
+  onSearchByText(query: string) {
+    this.showSearchResults = query === '' ? false : true;
+    this.searchResultsEmoji = [];
+
+    for (const pack of this.allEmojisPacks) {
+
+      for (const subCategory of pack.subCategories) {
+        const subItems = subCategory.items.filter( item => item.title.toLowerCase().includes(query.toLowerCase()) )
+        this.searchResultsEmoji = [...this.searchResultsEmoji, ...subItems];
+      }
+      
+    }
+
   }
 
 

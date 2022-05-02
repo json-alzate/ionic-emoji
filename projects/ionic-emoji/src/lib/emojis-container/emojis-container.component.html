@@ -1,43 +1,69 @@
 <ion-header>
     <lib-segments [setSegment]="toSetSegment" (changeSegment)="onGoToSegment($event)"></lib-segments>
-    <!-- <lib-search></lib-search> -->
+    <lib-search (searchEmoji)="onSearchByText($event)" ></lib-search>
 </ion-header>
 
 <ion-content scrollEvents="true" (ionScroll)="onScroll($event)">
 
-    <ion-item-group *ngFor="let pack of allEmojisPacks">
+    <ng-container *ngIf="showSearchResults; else allEmojisPacksTemplate">
+
         <ion-item-divider sticky>
             <ion-label>
                 <span style="font-size: 18px;">
-                    {{ pack.categoryName }}
+                    Search Results
                 </span>
             </ion-label>
         </ion-item-divider>
+        
+        <ion-row>
+            <ion-col class="ion-no-margin ion-no-padding" size="1" *ngFor="let item of searchResultsEmoji">
+                <ion-button expand="block" fill="clear" (click)="selectEmoji(item)">
+                    <span style="font-size: 28px;" slot="icon-only">
+                        {{ item.data_symbol }}
+                    </span>
+                </ion-button>
+            </ion-col>
+        </ion-row>
 
-        <ion-list>
+    </ng-container>
+    <ng-template #allEmojisPacksTemplate>
+        
+        <ion-item-group *ngFor="let pack of allEmojisPacks">
+            <ion-item-divider sticky>
+                <ion-label>
+                    <span style="font-size: 18px;">
+                        {{ pack.categoryName }}
+                    </span>
+                </ion-label>
+            </ion-item-divider>
+    
+            <ion-list>
+    
+                <ng-container *ngFor="let subCategory of pack.subCategories">
+    
+                    <ion-item-divider class="ion-margin-top">
+                        <ion-label> {{ subCategory.subCategoryName }} </ion-label>
+                    </ion-item-divider>
+    
+                    <ion-row>
+                        <ion-col class="ion-no-margin ion-no-padding" size="1" *ngFor="let item of subCategory.items">
+                            <ion-button expand="block" fill="clear" (click)="selectEmoji(item)">
+                                <span style="font-size: 28px;" slot="icon-only">
+                                    {{ item.data_symbol }}
+                                </span>
+                            </ion-button>
+                        </ion-col>
+                    </ion-row>
+    
+                </ng-container>
+    
+            </ion-list>
+    
+    
+        </ion-item-group>
 
-            <ng-container *ngFor="let subCategory of pack.subCategories">
+    </ng-template>
+    
 
-                <ion-item-divider class="ion-margin-top">
-                    <ion-label> {{ subCategory.subCategoryName }} </ion-label>
-                </ion-item-divider>
-
-                <ion-row>
-                    <ion-col class="ion-no-margin ion-no-padding" size="1" *ngFor="let item of subCategory.items">
-                        <ion-button expand="block" fill="clear" (click)="selectEmoji(item)">
-                            <span style="font-size: 28px;" slot="icon-only">
-                                {{ item.data_symbol }}
-                            </span>
-                        </ion-button>
-                    </ion-col>
-                </ion-row>
-
-            </ng-container>
-
-        </ion-list>
-
-
-
-    </ion-item-group>
 
 </ion-content>

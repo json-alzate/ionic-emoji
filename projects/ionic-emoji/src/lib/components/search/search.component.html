@@ -1,2 +1,2 @@
-<ion-searchbar placeholder="Buscar" inputmode="decimal" type="decimal"
-    [debounce]="250"></ion-searchbar>
+<ion-searchbar placeholder="Search" inputmode="text" type="text" [debounce]="250" (ionChange)="onSearch($event)">
+</ion-searchbar>

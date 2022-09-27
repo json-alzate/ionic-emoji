@@ -47,9 +47,9 @@ export class SegmentsComponent implements OnInit {
       disabled: false
     },
     {
-      value: 'travel',
+      value: 'Travel & places',
       icon: 'airplane-outline',
-      disabled: true
+      disabled: false
     },
     {
       value: 'activities',

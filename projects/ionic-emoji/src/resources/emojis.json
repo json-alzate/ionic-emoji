@@ -8010,6 +8010,1903 @@
                         "html_code": "&#129517;",
                         "css_class": "u1f800",
                         "data_symbol": "🧭"
+                    },
+                    {
+                        "symbol": "\ud83c\udf0e",
+                        "title": "Earth Globe Americas",
+                        "url": "\/en\/1F30E\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/9a\/7011c67ec6bef4ee0078350e970eb4.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F30E",
+                        "html_code": "&#127758;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🌎"
+                    },
+                    {
+                        "symbol": "\ud83d\uddfa",
+                        "title": "World Map",
+                        "url": "\/en\/1F5FA\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/2a\/ef2c259bae197afae607536c21131f.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F5FA",
+                        "html_code": "&#128506;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🗺"
+                    },
+                    {
+                        "symbol": "\ud83d\uddfe",
+                        "title": "Silhouette of Japan",
+                        "url": "\/en\/1F5FE\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/47\/87725e6d157643c50144f56bc0ce82.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F5FE",
+                        "html_code": "&#128510;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🗾"
+                    },
+                    {
+                        "symbol": "\ud83c\udf0d",
+                        "title": "Earth Globe Europe-Africa",
+                        "url": "\/en\/1F30D\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/42\/762a4774ab6499b39df9ad6bc76b13.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F30D",
+                        "html_code": "&#127757;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🌍"
+                    },
+                    {
+                        "symbol": "\ud83c\udf10",
+                        "title": "Globe with Meridians",
+                        "url": "\/en\/1F310\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/a8\/3974fe6c5b025249df37c8afc404fe.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F310",
+                        "html_code": "&#127760;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🌐"
+                    }
+                ]
+            },
+            {
+                "subCategoryName": "Geographic place",
+                "items": [
+                    {
+                        "symbol": "\ud83c\udfdc",
+                        "title": "Desert",
+                        "url": "\/en\/1F3DC\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/45\/f30d183879a32cf3e6ecf93e7d8619.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F3DC",
+                        "html_code": "&#127964;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🏜"
+                    },
+                    {
+                        "symbol": "\ud83c\udf0b",
+                        "title": "Volcano",
+                        "url": "\/en\/1F30B\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/6e\/2cc3d133bd63dd7ddbbe8ae59751ce.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F30B",
+                        "html_code": "&#127755;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🌋"
+                    },
+                    {
+                        "symbol": "\ud83c\udfd6",
+                        "title": "Beach with Umbrella",
+                        "url": "\/en\/1F3D6\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/25\/3270ec537837150d2db6ffc6776ca0.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F3D6",
+                        "html_code": "&#127958;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🏖"
+                    },
+                    {
+                        "symbol": "\ud83c\udfdd",
+                        "title": "Desert Island",
+                        "url": "\/en\/1F3DD\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/97\/6f1636eacab44d26d9e1140fc2f3c6.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F3DD",
+                        "html_code": "&#127965;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🏝"
+                    },
+                    {
+                        "symbol": "\ud83d\uddfb",
+                        "title": "Mount Fuji",
+                        "url": "\/en\/1F5FB\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/58\/68133b7d375c7bbd965a38b548f8b7.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F5FB",
+                        "html_code": "&#128507;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🗻"
+                    },
+                    {
+                        "symbol": "\ud83c\udfd4",
+                        "title": "Snow Capped Mountain",
+                        "url": "\/en\/1F3D4\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/63\/5067a07bcf5c88adb33ab94a7816ed.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F3D4",
+                        "html_code": "&#127956;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🏔"
+                    },
+                    {
+                        "symbol": "\u26f0",
+                        "title": "Mountain",
+                        "url": "\/en\/26F0\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/c6\/92829e24b1bbc8937c550424c57579.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols",
+                            "url": "\/en\/blocks\/miscellaneous-symbols\/"
+                        },
+                        "number": "U+26F0",
+                        "html_code": "&#9968;",
+                        "css_class": "u2400",
+                        "data_symbol": "⛰"
+                    },
+                    {
+                        "symbol": "\ud83c\udfde",
+                        "title": "National Park",
+                        "url": "\/en\/1F3DE\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/f9\/d06f44526a918f4c324d9a9e3e2e20.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F3DE",
+                        "html_code": "&#127966;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🏞"
+                    },
+                    {
+                        "symbol": "\ud83c\udfd5",
+                        "title": "Camping",
+                        "url": "\/en\/1F3D5\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/17\/e8f5f25d9e2a19b1e42d8467712453.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F3D5",
+                        "html_code": "&#127957;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🏕"
+                    }
+                ]
+            },
+            {
+                "subCategoryName": "Building",
+                "items": [
+                    {
+                        "symbol": "\ud83d\uddfd",
+                        "title": "Statue of Liberty",
+                        "url": "\/en\/1F5FD\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/d7\/6837c7623fab4869f68ad7edf3ceca.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F5FD",
+                        "html_code": "&#128509;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🗽"
+                    },
+                    {
+                        "symbol": "\ud83c\udfed",
+                        "title": "Factory",
+                        "url": "\/en\/1F3ED\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/53\/235445e4bdd180f5454c70ba1f866f.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F3ED",
+                        "html_code": "&#127981;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🏭"
+                    },
+                    {
+                        "symbol": "\ud83c\udfec",
+                        "title": "Department Store",
+                        "url": "\/en\/1F3EC\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/50\/03e1f47fdff4b4cf1d6e333b623cb4.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F3EC",
+                        "html_code": "&#127980;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🏬"
+                    },
+                    {
+                        "symbol": "\ud83c\udfe6",
+                        "title": "Bank",
+                        "url": "\/en\/1F3E6\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/d5\/ff19386f9996ae14605157eeb7f93d.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F3E6",
+                        "html_code": "&#127974;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🏦"
+                    },
+                    {
+                        "symbol": "\ud83c\udfe5",
+                        "title": "Hospital",
+                        "url": "\/en\/1F3E5\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/ad\/a5450531316a29264f6cf0362688b1.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F3E5",
+                        "html_code": "&#127973;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🏥"
+                    },
+                    {
+                        "symbol": "\ud83d\uddfc",
+                        "title": "Tokyo Tower",
+                        "url": "\/en\/1F5FC\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/7d\/2fed23b7db5b9ce579a7a14fb73f7d.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F5FC",
+                        "html_code": "&#128508;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🗼"
+                    },
+                    {
+                        "symbol": "\ud83c\udfe9",
+                        "title": "Love Hotel",
+                        "url": "\/en\/1F3E9\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/65\/c153a21e1392ae590f4337523b3441.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F3E9",
+                        "html_code": "&#127977;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🏩"
+                    },
+                    {
+                        "symbol": "\ud83c\udfea",
+                        "title": "Convenience Store",
+                        "url": "\/en\/1F3EA\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/4e\/9ccad8c777aeaa1743444800998d22.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F3EA",
+                        "html_code": "&#127978;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🏪"
+                    },
+                    {
+                        "symbol": "\ud83c\udfeb",
+                        "title": "School",
+                        "url": "\/en\/1F3EB\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/f5\/f6918df7b639080a618e248db22d6c.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F3EB",
+                        "html_code": "&#127979;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🏫"
+                    },
+                    {
+                        "symbol": "\ud83c\udfd8",
+                        "title": "House Buildings",
+                        "url": "\/en\/1F3D8\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/fd\/457bf250e09a220bddbb5ae8a9f5b8.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F3D8",
+                        "html_code": "&#127960;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🏘"
+                    },
+                    {
+                        "symbol": "\ud83c\udfda",
+                        "title": "Derelict House Building",
+                        "url": "\/en\/1F3DA\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/2d\/a0d02d99bf575b3263d78e0c801f0d.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F3DA",
+                        "html_code": "&#127962;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🏚"
+                    },
+                    {
+                        "symbol": "\ud83c\udfdb",
+                        "title": "Classical Building",
+                        "url": "\/en\/1F3DB\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/7e\/c42c012fd4d26fae11919aa456f5d7.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F3DB",
+                        "html_code": "&#127963;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🏛"
+                    },
+                    {
+                        "symbol": "\ud83c\udfe4",
+                        "title": "European Post Office",
+                        "url": "\/en\/1F3E4\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/26\/19d679441e67390b4ed565bb3f2e75.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F3E4",
+                        "html_code": "&#127972;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🏤"
+                    },
+                    {
+                        "symbol": "\ud83c\udfdf",
+                        "title": "Stadium",
+                        "url": "\/en\/1F3DF\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/8c\/3249b1198ff391e95cce27e65ae4fd.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F3DF",
+                        "html_code": "&#127967;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🏟"
+                    },
+                    {
+                        "symbol": "\ud83c\udfd7",
+                        "title": "Building Construction",
+                        "url": "\/en\/1F3D7\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/2c\/2716cb81728ad4dce769b8918b535f.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F3D7",
+                        "html_code": "&#127959;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🏗"
+                    },
+                    {
+                        "symbol": "\ud83d\udc92",
+                        "title": "Wedding",
+                        "url": "\/en\/1F492\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/26\/87fd2faafd83897f823e02710d5048.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F492",
+                        "html_code": "&#128146;",
+                        "css_class": "u1f400",
+                        "data_symbol": "💒"
+                    },
+                    {
+                        "symbol": "\ud83c\udfe8",
+                        "title": "Hotel",
+                        "url": "\/en\/1F3E8\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/8f\/7818b8346216c12c35d04decec456b.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F3E8",
+                        "html_code": "&#127976;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🏨"
+                    },
+                    {
+                        "symbol": "\ud83c\udfe2",
+                        "title": "Office Building",
+                        "url": "\/en\/1F3E2\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/7b\/877c99a074089e8b74be9b4845b523.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F3E2",
+                        "html_code": "&#127970;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🏢"
+                    },
+                    {
+                        "symbol": "\ud83c\udfe1",
+                        "title": "House with Garden",
+                        "url": "\/en\/1F3E1\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/af\/e0bf40c3141dec77b31b1f162553b1.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F3E1",
+                        "html_code": "&#127969;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🏡"
+                    },
+                    {
+                        "symbol": "\ud83e\udea8",
+                        "title": "Rock",
+                        "url": "\/en\/1FAA8\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/f2\/0e29d778af528ff18585b3c4088835.png",
+                        "block": {
+                            "title": "Symbols and Pictographs Extended-A",
+                            "url": "\/en\/blocks\/symbols-and-pictographs-extended-a\/"
+                        },
+                        "number": "U+1FAA8",
+                        "html_code": "&#129704;",
+                        "css_class": "u1f800",
+                        "data_symbol": "🪨"
+                    },
+                    {
+                        "symbol": "\ud83c\udfe0",
+                        "title": "House Building",
+                        "url": "\/en\/1F3E0\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/da\/e992707498dcaecf8e11547df13c6b.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F3E0",
+                        "html_code": "&#127968;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🏠"
+                    },
+                    {
+                        "symbol": "\ud83c\udfe3",
+                        "title": "Japanese Post Office",
+                        "url": "\/en\/1F3E3\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/7c\/16ae4a104e498e436b8150505cf63c.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F3E3",
+                        "html_code": "&#127971;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🏣"
+                    },
+                    {
+                        "symbol": "\ud83c\udff0",
+                        "title": "European Castle",
+                        "url": "\/en\/1F3F0\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/52\/ef2f8e5402469e6880b4778835c5c3.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F3F0",
+                        "html_code": "&#127984;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🏰"
+                    },
+                    {
+                        "symbol": "\ud83e\uddf1",
+                        "title": "Brick",
+                        "url": "\/en\/1F9F1\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/71\/6bd8089ef56220c22155843e864262.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F9F1",
+                        "html_code": "&#129521;",
+                        "css_class": "u1f800",
+                        "data_symbol": "🧱"
+                    },
+                    {
+                        "symbol": "\ud83c\udfef",
+                        "title": "Japanese Castle",
+                        "url": "\/en\/1F3EF\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/84\/caff9954b45f3814128a2d78df38c6.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F3EF",
+                        "html_code": "&#127983;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🏯"
+                    },
+                    {
+                        "symbol": "\ud83e\udeb5",
+                        "title": "Wood",
+                        "url": "\/en\/1FAB5\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/4b\/badf63f645f49d96f18152ad930132.png",
+                        "block": {
+                            "title": "Symbols and Pictographs Extended-A",
+                            "url": "\/en\/blocks\/symbols-and-pictographs-extended-a\/"
+                        },
+                        "number": "U+1FAB5",
+                        "html_code": "&#129717;",
+                        "css_class": "u1f800",
+                        "data_symbol": "🪵"
+                    },
+                    {
+                        "symbol": "\ud83d\uded6",
+                        "title": "Hut",
+                        "url": "\/en\/1F6D6\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/58\/18a8895c0dd67057083fa4947c8abc.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F6D6",
+                        "html_code": "&#128726;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🛖"
+                    }
+                ]
+            },
+            {
+                "subCategoryName": "Religious place",
+                "items": [
+                    {
+                        "symbol": "\ud83d\udd4c",
+                        "title": "Mosque",
+                        "url": "\/en\/1F54C\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/cb\/9b531fb84ebf5d398182286e17855e.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F54C",
+                        "html_code": "&#128332;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🕌"
+                    },
+                    {
+                        "symbol": "\ud83d\udd4b",
+                        "title": "Kaaba",
+                        "url": "\/en\/1F54B\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/26\/3bb51af64572c82242433f03690ee3.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F54B",
+                        "html_code": "&#128331;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🕋"
+                    },
+                    {
+                        "symbol": "\ud83d\udd4d",
+                        "title": "Synagogue",
+                        "url": "\/en\/1F54D\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/a8\/5b5396a7b2e88b89eaf9db364ce081.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F54D",
+                        "html_code": "&#128333;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🕍"
+                    },
+                    {
+                        "symbol": "\u26ea",
+                        "title": "Church",
+                        "url": "\/en\/26EA\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/15\/facbdc2fba1a25b544e7ccdf790749.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols",
+                            "url": "\/en\/blocks\/miscellaneous-symbols\/"
+                        },
+                        "number": "U+26EA",
+                        "html_code": "&#9962;",
+                        "css_class": "u2400",
+                        "data_symbol": "⛪"
+                    },
+                    {
+                        "symbol": "\u26e9",
+                        "title": "Shinto Shrine",
+                        "url": "\/en\/26E9\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/9a\/d9843c167565070c65c7b961e628e9.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols",
+                            "url": "\/en\/blocks\/miscellaneous-symbols\/"
+                        },
+                        "number": "U+26E9",
+                        "html_code": "&#9961;",
+                        "css_class": "u2400",
+                        "data_symbol": "⛩"
+                    },
+                    {
+                        "symbol": "\ud83d\uded5",
+                        "title": "Hindu Temple",
+                        "url": "\/en\/1F6D5\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/18\/70c0758bdb45586c6223ae8c1f2440.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F6D5",
+                        "html_code": "&#128725;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🛕"
+                    }
+                ]
+            },
+            {
+                "subCategoryName": "Others places",
+                "items": [
+                    {
+                        "symbol": "\ud83c\udfa1",
+                        "title": "Ferris Wheel",
+                        "url": "\/en\/1F3A1\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/ba\/6f906faa2c249c9cdddf441babab33.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F3A1",
+                        "html_code": "&#127905;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🎡"
+                    },
+                    {
+                        "symbol": "\u26fa",
+                        "title": "Tent",
+                        "url": "\/en\/26FA\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/9b\/b2d79b207f76611cc51eaf4c9debf7.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols",
+                            "url": "\/en\/blocks\/miscellaneous-symbols\/"
+                        },
+                        "number": "U+26FA",
+                        "html_code": "&#9978;",
+                        "css_class": "u2400",
+                        "data_symbol": "⛺"
+                    },
+                    {
+                        "symbol": "\ud83c\udfa2",
+                        "title": "Roller Coaster",
+                        "url": "\/en\/1F3A2\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/57\/412367810f7544230dfbdd9b4fc3d0.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F3A2",
+                        "html_code": "&#127906;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🎢"
+                    },
+                    {
+                        "symbol": "\ud83d\udc88",
+                        "title": "Barber Pole",
+                        "url": "\/en\/1F488\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/46\/42b83d98d73266f0cbca9c7e07e078.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F488",
+                        "html_code": "&#128136;",
+                        "css_class": "u1f400",
+                        "data_symbol": "💈"
+                    },
+                    {
+                        "symbol": "\ud83c\udf07",
+                        "title": "Sunset Over Buildings",
+                        "url": "\/en\/1F307\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/cc\/ca5961c926abc63dcbb1664407a09a.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F307",
+                        "html_code": "&#127751;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🌇"
+                    },
+                    {
+                        "symbol": "\ud83c\udf09",
+                        "title": "Bridge At Night",
+                        "url": "\/en\/1F309\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/86\/2093d054a401419d6127fcc822d8ef.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F309",
+                        "html_code": "&#127753;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🌉"
+                    },
+                    {
+                        "symbol": "\ud83c\udf05",
+                        "title": "Sunrise",
+                        "url": "\/en\/1F305\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/69\/6964e4643d661755e331e709ef9ff9.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F305",
+                        "html_code": "&#127749;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🌅"
+                    },
+                    {
+                        "symbol": "\ud83c\udf06",
+                        "title": "Cityscape At Dusk",
+                        "url": "\/en\/1F306\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/fb\/f6d0becf984d5eecb3a7d4df69588d.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F306",
+                        "html_code": "&#127750;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🌆"
+                    },
+                    {
+                        "symbol": "\ud83c\udf03",
+                        "title": "Night with Stars",
+                        "url": "\/en\/1F303\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/60\/d45ae5abb544ce67a84358436e49ec.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F303",
+                        "html_code": "&#127747;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🌃"
+                    },
+                    {
+                        "symbol": "\ud83c\udf04",
+                        "title": "Sunrise Over Mountains",
+                        "url": "\/en\/1F304\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/fd\/843ef20bad3b1ca6a86b3ec20d3c1a.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F304",
+                        "html_code": "&#127748;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🌄"
+                    },
+                    {
+                        "symbol": "\u2668",
+                        "title": "Hot Springs",
+                        "url": "\/en\/2668\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/1b\/8f1cfcc92898069704ef98a615985a.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols",
+                            "url": "\/en\/blocks\/miscellaneous-symbols\/"
+                        },
+                        "number": "U+2668",
+                        "html_code": "&#9832;",
+                        "css_class": "u2400",
+                        "data_symbol": "♨"
+                    },
+                    {
+                        "symbol": "\ud83c\udfaa",
+                        "title": "Circus Tent",
+                        "url": "\/en\/1F3AA\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/dc\/1286bf031aba9809f635ae74a33584.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F3AA",
+                        "html_code": "&#127914;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🎪"
+                    },
+                    {
+                        "symbol": "\ud83c\udf01",
+                        "title": "Foggy",
+                        "url": "\/en\/1F301\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/48\/5a4e72ac50e776f36ce4a93abdeaaf.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F301",
+                        "html_code": "&#127745;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🌁"
+                    },
+                    {
+                        "symbol": "\ud83c\udfd9",
+                        "title": "Cityscape",
+                        "url": "\/en\/1F3D9\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/5e\/25460cb3ad7f7382907c3d983c4996.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F3D9",
+                        "html_code": "&#127961;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🏙"
+                    },
+                    {
+                        "symbol": "\ud83c\udfa0",
+                        "title": "Carousel Horse",
+                        "url": "\/en\/1F3A0\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/a1\/9943dafd58f7f8d34007f952a1a958.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F3A0",
+                        "html_code": "&#127904;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🎠"
+                    },
+                    {
+                        "symbol": "\u26f2",
+                        "title": "Fountain",
+                        "url": "\/en\/26F2\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/10\/966aadcf1c54e889857ee930e7bd13.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols",
+                            "url": "\/en\/blocks\/miscellaneous-symbols\/"
+                        },
+                        "number": "U+26F2",
+                        "html_code": "&#9970;",
+                        "css_class": "u2400",
+                        "data_symbol": "⛲"
+                    }
+                ]
+            },
+            {
+                "subCategoryName": "Ground Transport",
+                "items": [
+                    {
+                        "symbol": "\ud83d\udea7",
+                        "title": "Construction Sign",
+                        "url": "\/en\/1F6A7\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/dd\/8b7f393a72b7705da89b5b87a1d340.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F6A7",
+                        "html_code": "&#128679;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🚧"
+                    },
+                    {
+                        "symbol": "\ud83d\udea5",
+                        "title": "Horizontal Traffic Light",
+                        "url": "\/en\/1F6A5\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/02\/f686269a0e74887cd7ac758bf8afef.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F6A5",
+                        "html_code": "&#128677;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🚥"
+                    },
+                    {
+                        "symbol": "\ud83d\ude83",
+                        "title": "Railway Car",
+                        "url": "\/en\/1F683\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/c6\/f0478664355d05db0932edbee21ca6.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F683",
+                        "html_code": "&#128643;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🚃"
+                    },
+                    {
+                        "symbol": "\ud83d\ude98",
+                        "title": "Oncoming Automobile",
+                        "url": "\/en\/1F698\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/cd\/7d239fbe30ac5bb17a864f407bbdbd.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F698",
+                        "html_code": "&#128664;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🚘"
+                    },
+                    {
+                        "symbol": "\ud83d\udeb2",
+                        "title": "Bicycle",
+                        "url": "\/en\/1F6B2\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/96\/f0785ce40b89dd12f90c746326677a.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F6B2",
+                        "html_code": "&#128690;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🚲"
+                    },
+                    {
+                        "symbol": "\ud83d\ude88",
+                        "title": "Light Rail",
+                        "url": "\/en\/1F688\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/90\/29ae16a470d0697ebbb055901fe755.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F688",
+                        "html_code": "&#128648;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🚈"
+                    },
+                    {
+                        "symbol": "\ud83d\ude87",
+                        "title": "Metro",
+                        "url": "\/en\/1F687\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/50\/f38db19b868f644625148a20e1320e.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F687",
+                        "html_code": "&#128647;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🚇"
+                    },
+                    {
+                        "symbol": "\ud83d\ude86",
+                        "title": "Train",
+                        "url": "\/en\/1F686\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/fb\/cd3055ee7f10b163d873b06384bf2a.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F686",
+                        "html_code": "&#128646;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🚆"
+                    },
+                    {
+                        "symbol": "\ud83d\ude85",
+                        "title": "High-Speed Train with Bullet Nose",
+                        "url": "\/en\/1F685\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/02\/e8bc23c0dc1260735a0e055a99ab9c.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F685",
+                        "html_code": "&#128645;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🚅"
+                    },
+                    {
+                        "symbol": "\ud83d\ude84",
+                        "title": "High-Speed Train",
+                        "url": "\/en\/1F684\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/f1\/cd5f8cddc1bcceb7bc1def29569ec2.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F684",
+                        "html_code": "&#128644;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🚄"
+                    },
+                    {
+                        "symbol": "\ud83d\udee2",
+                        "title": "Oil Drum",
+                        "url": "\/en\/1F6E2\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/3f\/7e25c20915f7e92960ad97d5bc6e48.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F6E2",
+                        "html_code": "&#128738;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🛢"
+                    },
+                    {
+                        "symbol": "\ud83d\ude9a",
+                        "title": "Delivery Truck",
+                        "url": "\/en\/1F69A\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/25\/57416d65e3db71477dd33a8a234e21.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F69A",
+                        "html_code": "&#128666;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🚚"
+                    },
+                    {
+                        "symbol": "\ud83d\ude9c",
+                        "title": "Tractor",
+                        "url": "\/en\/1F69C\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/e9\/b11fd25638006fdefb92d2ecd00a2b.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F69C",
+                        "html_code": "&#128668;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🚜"
+                    },
+                    {
+                        "symbol": "\ud83d\ude89",
+                        "title": "Station",
+                        "url": "\/en\/1F689\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/21\/441f59635dcb7277d05680b2804718.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F689",
+                        "html_code": "&#128649;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🚉"
+                    },
+                    {
+                        "symbol": "\ud83d\ude82",
+                        "title": "Steam Locomotive",
+                        "url": "\/en\/1F682\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/60\/db5d9c0a6a12abcf2ea8ed13ab9cea.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F682",
+                        "html_code": "&#128642;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🚂"
+                    },
+                    {
+                        "symbol": "\ud83d\ude97",
+                        "title": "Automobile",
+                        "url": "\/en\/1F697\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/b9\/1633134b6b244b50ccea983841c0f0.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F697",
+                        "html_code": "&#128663;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🚗"
+                    },
+                    {
+                        "symbol": "\ud83d\ude8a",
+                        "title": "Tram",
+                        "url": "\/en\/1F68A\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/cd\/3fb86c1629a1d842af0d66b73f8fb1.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F68A",
+                        "html_code": "&#128650;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🚊"
+                    },
+                    {
+                        "symbol": "\ud83d\ude99",
+                        "title": "Recreational Vehicle",
+                        "url": "\/en\/1F699\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/5d\/0458e96b0cadf1b4945b6baaf1d706.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F699",
+                        "html_code": "&#128665;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🚙"
+                    },
+                    {
+                        "symbol": "\ud83d\ude8b",
+                        "title": "Tram Car",
+                        "url": "\/en\/1F68B\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/af\/4144615307c05c89195a00cbffb3aa.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F68B",
+                        "html_code": "&#128651;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🚋"
+                    },
+                    {
+                        "symbol": "\ud83d\ude9b",
+                        "title": "Articulated Lorry",
+                        "url": "\/en\/1F69B\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/66\/9011f74b2ba1a02f1f448c1fe1f43d.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F69B",
+                        "html_code": "&#128667;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🚛"
+                    },
+                    {
+                        "symbol": "\ud83d\ude8c",
+                        "title": "Bus",
+                        "url": "\/en\/1F68C\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/4f\/f15f1fcd14f891906127d3c871c688.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F68C",
+                        "html_code": "&#128652;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🚌"
+                    },
+                    {
+                        "symbol": "\ud83d\ude9d",
+                        "title": "Monorail",
+                        "url": "\/en\/1F69D\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/f0\/287150a1006d296b061d734bc8ec97.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F69D",
+                        "html_code": "&#128669;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🚝"
+                    },
+                    {
+                        "symbol": "\ud83d\ude8d",
+                        "title": "Oncoming Bus",
+                        "url": "\/en\/1F68D\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/fa\/77b4e846150fea5fe07109b651bd46.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F68D",
+                        "html_code": "&#128653;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🚍"
+                    },
+                    {
+                        "symbol": "\ud83d\ude8e",
+                        "title": "Trolleybus",
+                        "url": "\/en\/1F68E\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/9d\/cc3ab5572ad31500f4ff424c11bd88.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F68E",
+                        "html_code": "&#128654;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🚎"
+                    },
+                    {
+                        "symbol": "\ud83d\ude8f",
+                        "title": "Bus Stop",
+                        "url": "\/en\/1F68F\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/ce\/30ca4f4c29f757802122e205b9cd6e.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F68F",
+                        "html_code": "&#128655;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🚏"
+                    },
+                    {
+                        "symbol": "\ud83d\uded1",
+                        "title": "Octagonal Sign",
+                        "url": "\/en\/1F6D1\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/7f\/cf53a896d57f2b7acd77c3677f873e.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F6D1",
+                        "html_code": "&#128721;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🛑"
+                    },
+                    {
+                        "symbol": "\ud83d\ude90",
+                        "title": "Minibus",
+                        "url": "\/en\/1F690\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/24\/5b1a4700439370a5122ae916277ec3.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F690",
+                        "html_code": "&#128656;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🚐"
+                    },
+                    {
+                        "symbol": "\ud83d\udee3",
+                        "title": "Motorway",
+                        "url": "\/en\/1F6E3\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/e3\/d858c5f5dffaeb083c0d39e7d1d83d.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F6E3",
+                        "html_code": "&#128739;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🛣"
+                    },
+                    {
+                        "symbol": "\ud83d\ude91",
+                        "title": "Ambulance",
+                        "url": "\/en\/1F691\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/dd\/85c228972b1c6b1c6e293372d2236e.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F691",
+                        "html_code": "&#128657;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🚑"
+                    },
+                    {
+                        "symbol": "\ud83d\udea6",
+                        "title": "Vertical Traffic Light",
+                        "url": "\/en\/1F6A6\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/17\/ba1cd94edd2848d3706af8b3536495.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F6A6",
+                        "html_code": "&#128678;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🚦"
+                    },
+                    {
+                        "symbol": "\ud83d\ude92",
+                        "title": "Fire Engine",
+                        "url": "\/en\/1F692\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/47\/5b83970f41a4b188ade396199cafc8.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F692",
+                        "html_code": "&#128658;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🚒"
+                    },
+                    {
+                        "symbol": "\ud83d\udea8",
+                        "title": "Police Cars Revolving Light",
+                        "url": "\/en\/1F6A8\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/fe\/51e00d37967980eb55e2fbc1ab91be.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F6A8",
+                        "html_code": "&#128680;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🚨"
+                    },
+                    {
+                        "symbol": "\ud83d\ude93",
+                        "title": "Police Car",
+                        "url": "\/en\/1F693\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/b2\/5260dc345fdc7f2e15ac3eb27cb7d2.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F693",
+                        "html_code": "&#128659;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🚓"
+                    },
+                    {
+                        "symbol": "\ud83c\udfce",
+                        "title": "Racing Car",
+                        "url": "\/en\/1F3CE\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/8f\/f71a36927671b2d659b8997c306b22.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F3CE",
+                        "html_code": "&#127950;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🏎"
+                    },
+                    {
+                        "symbol": "\ud83d\ude94",
+                        "title": "Oncoming Police Car",
+                        "url": "\/en\/1F694\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/f5\/39ea697e96ea785feb5d7404023d97.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F694",
+                        "html_code": "&#128660;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🚔"
+                    },
+                    {
+                        "symbol": "\ud83c\udfcd",
+                        "title": "Racing Motorcycle",
+                        "url": "\/en\/1F3CD\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/66\/826b77c437ed63711ea6b045fd8635.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F3CD",
+                        "html_code": "&#127949;",
+                        "css_class": "u1f000",
+                        "data_symbol": "🏍"
+                    },
+                    {
+                        "symbol": "\ud83d\ude95",
+                        "title": "Taxi",
+                        "url": "\/en\/1F695\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/6c\/b1eaa3c32e62dbb52c4deed3ee7b33.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F695",
+                        "html_code": "&#128661;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🚕"
+                    },
+                    {
+                        "symbol": "\u26fd",
+                        "title": "Fuel Pump",
+                        "url": "\/en\/26FD\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/75\/7b1de54116ff3efa23207d10e7c8e6.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols",
+                            "url": "\/en\/blocks\/miscellaneous-symbols\/"
+                        },
+                        "number": "U+26FD",
+                        "html_code": "&#9981;",
+                        "css_class": "u2400",
+                        "data_symbol": "⛽"
+                    },
+                    {
+                        "symbol": "\ud83d\ude96",
+                        "title": "Oncoming Taxi",
+                        "url": "\/en\/1F696\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/8f\/530e435b3b0fdfa59ff66a9d0a28f9.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F696",
+                        "html_code": "&#128662;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🚖"
+                    },
+                    {
+                        "symbol": "\ud83d\udef4",
+                        "title": "Scooter",
+                        "url": "\/en\/1F6F4\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/9c\/f6104d8eb9d516df40d45f60989d10.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F6F4",
+                        "html_code": "&#128756;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🛴"
+                    },
+                    {
+                        "symbol": "\ud83d\ude9e",
+                        "title": "Mountain Railway",
+                        "url": "\/en\/1F69E\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/dd\/d8a06d124b59f014e4d5816271f727.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F69E",
+                        "html_code": "&#128670;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🚞"
+                    },
+                    {
+                        "symbol": "\ud83d\udef9",
+                        "title": "Skateboard",
+                        "url": "\/en\/1F6F9\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/f8\/a70763e2e8ff706cdffb36beb3823c.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F6F9",
+                        "html_code": "&#128761;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🛹"
+                    },
+                    {
+                        "symbol": "\ud83d\udee4",
+                        "title": "Railway Track",
+                        "url": "\/en\/1F6E4\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/e8\/338a6e4efcdb868086b1415c87c5f8.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F6E4",
+                        "html_code": "&#128740;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🛤"
+                    },
+                    {
+                        "symbol": "\ud83d\udefb",
+                        "title": "Pickup Truck",
+                        "url": "\/en\/1F6FB\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/db\/d41cae3583b70e8fdbc84416754369.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F6FB",
+                        "html_code": "&#128763;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🛻"
+                    },
+                    {
+                        "symbol": "\ud83d\udefa",
+                        "title": "Auto Rickshaw",
+                        "url": "\/en\/1F6FA\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/c2\/d4edf0f3d5bda845953ab5dd990d30.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F6FA",
+                        "html_code": "&#128762;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🛺"
+                    },
+                    {
+                        "symbol": "\ud83d\udef5",
+                        "title": "Motor Scooter",
+                        "url": "\/en\/1F6F5\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/5b\/fd3ea3fcce496a9226538c3d716069.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F6F5",
+                        "html_code": "&#128757;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🛵"
+                    },
+                    {
+                        "symbol": "\ud83d\udefc",
+                        "title": "Roller Skate",
+                        "url": "\/en\/1F6FC\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/b8\/9a8364c822a11a3e5053a03a7b297e.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F6FC",
+                        "html_code": "&#128764;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🛼"
+                    },
+                    {
+                        "symbol": "\ud83e\uddbc",
+                        "title": "Motorized Wheelchair",
+                        "url": "\/en\/1F9BC\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/2b\/3e0db0b905b06c8e351764f336b89b.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F9BC",
+                        "html_code": "&#129468;",
+                        "css_class": "u1f800",
+                        "data_symbol": "🦼"
+                    },
+                    {
+                        "symbol": "\ud83e\uddbd",
+                        "title": "Manual Wheelchair",
+                        "url": "\/en\/1F9BD\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/6e\/3a667a8276ba060b4de63be983cc24.png",
+                        "block": {
+                            "title": "Supplemental Symbols and Pictographs",
+                            "url": "\/en\/blocks\/supplemental-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F9BD",
+                        "html_code": "&#129469;",
+                        "css_class": "u1f800",
+                        "data_symbol": "🦽"
+                    }
+                ]
+            },
+            {
+                "subCategoryName": "Water transport",
+                "items": [
+                    {
+                        "symbol": "\ud83d\udea4",
+                        "title": "Speedboat",
+                        "url": "\/en\/1F6A4\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/97\/5fb9f8844e5a405311e0be01138ca6.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F6A4",
+                        "html_code": "&#128676;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🚤"
+                    },
+                    {
+                        "symbol": "\ud83d\udea2",
+                        "title": "Ship",
+                        "url": "\/en\/1F6A2\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/5a\/ebd8675624709397f775305980b4dd.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F6A2",
+                        "html_code": "&#128674;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🚢"
+                    },
+                    {
+                        "symbol": "\u26f5",
+                        "title": "Sailboat",
+                        "url": "\/en\/26F5\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/b2\/f18f67371d7b0218b4b279a0d46587.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols",
+                            "url": "\/en\/blocks\/miscellaneous-symbols\/"
+                        },
+                        "number": "U+26F5",
+                        "html_code": "&#9973;",
+                        "css_class": "u2400",
+                        "data_symbol": "⛵"
+                    },
+                    {
+                        "symbol": "\u2693",
+                        "title": "Anchor",
+                        "url": "\/en\/2693\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/43\/fd01984a32ce29e6ecfbac8ddfbd0a.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols",
+                            "url": "\/en\/blocks\/miscellaneous-symbols\/"
+                        },
+                        "number": "U+2693",
+                        "html_code": "&#9875;",
+                        "css_class": "u2400",
+                        "data_symbol": "⚓"
+                    },
+                    {
+                        "symbol": "\ud83d\udef3",
+                        "title": "Passenger Ship",
+                        "url": "\/en\/1F6F3\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/64\/2468de3c14ac725049a514d59608ff.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F6F3",
+                        "html_code": "&#128755;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🛳"
+                    },
+                    {
+                        "symbol": "\ud83d\udef6",
+                        "title": "Canoe",
+                        "url": "\/en\/1F6F6\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/fe\/7827eea3ff3ec2f79073ed24765725.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F6F6",
+                        "html_code": "&#128758;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🛶"
+                    },
+                    {
+                        "symbol": "\u26f4",
+                        "title": "Ferry",
+                        "url": "\/en\/26F4\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/e6\/2b3031eef42ab4b8417dbff604b9ff.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols",
+                            "url": "\/en\/blocks\/miscellaneous-symbols\/"
+                        },
+                        "number": "U+26F4",
+                        "html_code": "&#9972;",
+                        "css_class": "u2400",
+                        "data_symbol": "⛴"
+                    },
+                    {
+                        "symbol": "\ud83d\udee5",
+                        "title": "Motor Boat",
+                        "url": "\/en\/1F6E5\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/9f\/eae6558264828bf4da56d1ea20bfd4.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F6E5",
+                        "html_code": "&#128741;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🛥"
+                    }
+                ]
+            },
+            {
+                "subCategoryName": "Air tranport",
+                "items": [
+                    {
+                        "symbol": "\ud83d\udee9",
+                        "title": "Small Airplane",
+                        "url": "\/en\/1F6E9\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/c1\/5d50e9060d9e503ab75d18b31095a8.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F6E9",
+                        "html_code": "&#128745;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🛩"
+                    },
+                    {
+                        "symbol": "\ud83d\udea1",
+                        "title": "Aerial Tramway",
+                        "url": "\/en\/1F6A1\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/4c\/ba9da31869040bb0f6059841251d6c.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F6A1",
+                        "html_code": "&#128673;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🚡"
+                    },
+                    {
+                        "symbol": "\ud83d\udeeb",
+                        "title": "Airplane Departure",
+                        "url": "\/en\/1F6EB\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/8c\/23ab1a2796903149e15c0741ed1340.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F6EB",
+                        "html_code": "&#128747;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🛫"
+                    },
+                    {
+                        "symbol": "\ud83d\ude80",
+                        "title": "Rocket",
+                        "url": "\/en\/1F680\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/2c\/03b9fa8c34887a1cc88796688c76f1.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F680",
+                        "html_code": "&#128640;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🚀"
+                    },
+                    {
+                        "symbol": "\ud83d\ude81",
+                        "title": "Helicopter",
+                        "url": "\/en\/1F681\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/50\/2821b49c70e3d6a65ebaa75bb2e721.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F681",
+                        "html_code": "&#128641;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🚁"
+                    },
+                    {
+                        "symbol": "\ud83d\udef0",
+                        "title": "Satellite",
+                        "url": "\/en\/1F6F0\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/7d\/02c0df3feffea39da6716ed5d09701.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F6F0",
+                        "html_code": "&#128752;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🛰"
+                    },
+                    {
+                        "symbol": "\u2708",
+                        "title": "Airplane",
+                        "url": "\/en\/2708\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/f1\/f43c332732e8e9ae33aeed26c7352d.png",
+                        "block": {
+                            "title": "Dingbats",
+                            "url": "\/en\/blocks\/dingbats\/"
+                        },
+                        "number": "U+2708",
+                        "html_code": "&#9992;",
+                        "css_class": "u2400",
+                        "data_symbol": "✈"
+                    },
+                    {
+                        "symbol": "\ud83d\ude9f",
+                        "title": "Suspension Railway",
+                        "url": "\/en\/1F69F\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/aa\/986e72559c9279fa72d41e55dd5cac.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F69F",
+                        "html_code": "&#128671;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🚟"
+                    },
+                    {
+                        "symbol": "\ud83d\udeec",
+                        "title": "Airplane Arriving",
+                        "url": "\/en\/1F6EC\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/f1\/bf4261425d5ddd4b63975e8f53be6b.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F6EC",
+                        "html_code": "&#128748;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🛬"
+                    },
+                    {
+                        "symbol": "\ud83d\udef8",
+                        "title": "Flying Saucer",
+                        "url": "\/en\/1F6F8\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/ad\/134fe023ee1541ae5d5abd53c3e7a8.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F6F8",
+                        "html_code": "&#128760;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🛸"
+                    },
+                    {
+                        "symbol": "\ud83d\udea0",
+                        "title": "Mountain Cableway",
+                        "url": "\/en\/1F6A0\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/d7\/bc1f8802c028de9d5c80327de4d5de.png",
+                        "block": {
+                            "title": "Transport and Map Symbols",
+                            "url": "\/en\/blocks\/transport-and-map-symbols\/"
+                        },
+                        "number": "U+1F6A0",
+                        "html_code": "&#128672;",
+                        "css_class": "u1f400",
+                        "data_symbol": "🚠"
+                    },
+                    {
+                        "symbol": "\ud83e\ude82",
+                        "title": "Parachute",
+                        "url": "\/en\/1FA82\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/bc\/ef13a010afcdc023e546729baa8c53.png",
+                        "block": {
+                            "title": "Symbols and Pictographs Extended-A",
+                            "url": "\/en\/blocks\/symbols-and-pictographs-extended-a\/"
+                        },
+                        "number": "U+1FA82",
+                        "html_code": "&#129666;",
+                        "css_class": "u1f800",
+                        "data_symbol": "🪂"
+                    },
+                    {
+                        "symbol": "\ud83d\udcba",
+                        "title": "Seat",
+                        "url": "\/en\/1F4BA\/",
+                        "image": "https:\/\/emoji-uc.akamaized.net\/orig\/5b\/2501b3e7bb4852d5662b07cbc95015.png",
+                        "block": {
+                            "title": "Miscellaneous Symbols and Pictographs",
+                            "url": "\/en\/blocks\/miscellaneous-symbols-and-pictographs\/"
+                        },
+                        "number": "U+1F4BA",
+                        "html_code": "&#128186;",
+                        "css_class": "u1f400",
+                        "data_symbol": "💺"
                     }
                 ]
             }

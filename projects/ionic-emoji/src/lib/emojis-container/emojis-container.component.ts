@@ -69,7 +69,10 @@ export class EmojisContainerComponent implements OnInit, AfterViewInit {
 
   // on scroll
   onScroll(event: any) {
-    const arrValues = [];
+    const arrValues: {
+      top: number,
+      value: number
+    }[] = [];
     for (let i = 0; i < this.elementGroups.length; i++) {
       const rect = this.elementGroups[i].nativeElement.getBoundingClientRect();
       if (rect.top < 0) {
@@ -103,10 +106,10 @@ export class EmojisContainerComponent implements OnInit, AfterViewInit {
     for (const pack of this.allEmojisPacks) {
 
       for (const subCategory of pack.subCategories) {
-        const subItems = subCategory.items.filter( item => item.title.toLowerCase().includes(query.toLowerCase()) )
+        const subItems = subCategory.items.filter(item => item.title.toLowerCase().includes(query.toLowerCase()))
         this.searchResultsEmoji = [...this.searchResultsEmoji, ...subItems];
       }
-      
+
     }
 
   }

@@ -18,6 +18,7 @@ import emojisPacks from '../../resources/emojis.json';
 export class EmojisContainerComponent implements OnInit, AfterViewInit {
 
   allEmojisPacks: EmojiPack[] = [];
+  emojisStorage: Emoji[] = [];
   @ViewChildren(IonItemGroup, { read: ElementRef }) itemGroups!: QueryList<any>;
   // presentation
   // @Input() presentationMode: 'modal' | 'popover' | null;
@@ -33,6 +34,7 @@ export class EmojisContainerComponent implements OnInit, AfterViewInit {
     private ionicEmojiService: IonicEmojiService
   ) {
     this.allEmojisPacks = emojisPacks as EmojiPack[];
+    this.getLocalStorageEmojis();
   }
 
 
@@ -48,8 +50,37 @@ export class EmojisContainerComponent implements OnInit, AfterViewInit {
     }
   }
 
+  // Get recent emojis from localStorage
+  getLocalStorageEmojis() {
+    const value = localStorage.getItem('ionic_emoji_recent') || '""';
+    this.emojisStorage = JSON.parse(value) as Emoji[] || [];
+    console.log(this.emojisStorage);
+
+    const recentPackToAdd: EmojiPack = {
+      categoryName: 'Recent',
+      subCategories: [
+        {
+          subCategoryName: 'Emojis recent used',
+          items: [...this.emojisStorage]
+        }
+      ]
+    };
+
+    this.allEmojisPacks.unshift(recentPackToAdd);
+
+  }
+
+  async addEmojiToLocalStorage(emoji: Emoji) {
+    this.emojisStorage.push(emoji);
+    localStorage.setItem('ionic_emoji_recent', JSON.stringify(this.emojisStorage));
+  }
+
+
   // scroll to pack
   onGoToSegment(segment: string) {
+
+    console.log(segment);
+
 
     for (let i = 0; i < this.allEmojisPacks.length; i++) {
       const pack = this.allEmojisPacks[i];
@@ -105,9 +136,12 @@ export class EmojisContainerComponent implements OnInit, AfterViewInit {
 
     for (const pack of this.allEmojisPacks) {
 
-      for (const subCategory of pack.subCategories) {
-        const subItems = subCategory.items.filter(item => item.title.toLowerCase().includes(query.toLowerCase()))
-        this.searchResultsEmoji = [...this.searchResultsEmoji, ...subItems];
+      // para que no busque en los recientes y no se repita el emoji en el resultado
+      if (pack.categoryName !== 'Recent') {
+        for (const subCategory of pack.subCategories) {
+          const subItems = subCategory.items.filter(item => item.title.toLowerCase().includes(query.toLowerCase()))
+          this.searchResultsEmoji = [...this.searchResultsEmoji, ...subItems];
+        }
       }
 
     }
@@ -118,6 +152,7 @@ export class EmojisContainerComponent implements OnInit, AfterViewInit {
   // Select emoji
   selectEmoji(item: Emoji) {
     this.ionicEmojiService.closeModal(item);
+    this.addEmojiToLocalStorage(item);
   }
 
 }

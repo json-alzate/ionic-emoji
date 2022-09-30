@@ -1,6 +1,7 @@
 <ion-header>
-    <lib-segments [setSegment]="toSetSegment" (changeSegment)="onGoToSegment($event)"></lib-segments>
-    <lib-search (searchEmoji)="onSearchByText($event)" ></lib-search>
+    <lib-segments [setSegment]="toSetSegment" [isSearching]="showSearchResults" (changeSegment)="onGoToSegment($event)">
+    </lib-segments>
+    <lib-search (searchEmoji)="onSearchByText($event)"></lib-search>
 </ion-header>
 
 <ion-content scrollEvents="true" (ionScroll)="onScroll($event)">
@@ -14,7 +15,7 @@
                 </span>
             </ion-label>
         </ion-item-divider>
-        
+
         <ion-row>
             <ion-col class="ion-no-margin ion-no-padding" size="1" *ngFor="let item of searchResultsEmoji">
                 <ion-button expand="block" fill="clear" (click)="selectEmoji(item)">
@@ -27,7 +28,7 @@
 
     </ng-container>
     <ng-template #allEmojisPacksTemplate>
-        
+
         <ion-item-group *ngFor="let pack of allEmojisPacks">
             <ion-item-divider sticky>
                 <ion-label>
@@ -36,15 +37,15 @@
                     </span>
                 </ion-label>
             </ion-item-divider>
-    
+
             <ion-list>
-    
+
                 <ng-container *ngFor="let subCategory of pack.subCategories">
-    
+
                     <ion-item-divider class="ion-margin-top">
                         <ion-label> {{ subCategory.subCategoryName }} </ion-label>
                     </ion-item-divider>
-    
+
                     <ion-row>
                         <ion-col class="ion-no-margin ion-no-padding" size="1" *ngFor="let item of subCategory.items">
                             <ion-button expand="block" fill="clear" (click)="selectEmoji(item)">
@@ -54,16 +55,16 @@
                             </ion-button>
                         </ion-col>
                     </ion-row>
-    
+
                 </ng-container>
-    
+
             </ion-list>
-    
-    
+
+
         </ion-item-group>
 
     </ng-template>
-    
+
 
 
 </ion-content>

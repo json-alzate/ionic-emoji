@@ -9,11 +9,13 @@ import { Component, OnInit, Output, EventEmitter, Input, ChangeDetectionStrategy
 export class SegmentsComponent implements OnInit {
 
   @Output() changeSegment = new EventEmitter<string>();
-  @Input() valueSegment: string = 'Smileys & Emotion';
+  @Input() valueSegment: string = 'recent';
+  @Input() isSearching = false;
 
   @Input()
   set setSegment(segment: number) {
     if (segment) {
+      // FIXME: no corresponde al scroll, deberia recibir el nombre de una vez para evitar errores de indice
       this.valueSegment = this.segments[segment].value;
       this.changeDetectorRef.markForCheck();
     }
@@ -24,7 +26,7 @@ export class SegmentsComponent implements OnInit {
     {
       value: 'recent',
       icon: 'time-outline',
-      disabled: true
+      disabled: false
     },
     {
       value: 'Smileys & Emotion',

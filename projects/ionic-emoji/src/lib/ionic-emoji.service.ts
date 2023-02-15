@@ -41,6 +41,7 @@ export class IonicEmojiService {
 
   private async openModal() {
     const modal = await this.modalController.create({
+      id: 'emoji-modal' + Date.now(),
       component: EmojisContainerComponent,
     });
 

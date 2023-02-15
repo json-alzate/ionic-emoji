@@ -1,6 +1,12 @@
-import { Component, OnInit, Input, ViewChildren, ElementRef, QueryList, AfterViewInit } from '@angular/core';
+import {
+  Component, OnInit,
+  Input,
+  ViewChildren,
+  ElementRef,
+  QueryList,
+  AfterViewInit
+} from '@angular/core';
 import { IonItemGroup } from '@ionic/angular';
-import { Observable, Observer } from 'rxjs';
 
 
 import { Emoji, EmojiPack } from '../models/emoji.model';
@@ -33,8 +39,7 @@ export class EmojisContainerComponent implements OnInit, AfterViewInit {
   constructor(
     private ionicEmojiService: IonicEmojiService
   ) {
-    this.allEmojisPacks = emojisPacks as EmojiPack[];
-    this.getLocalStorageEmojis();
+    this.getEmojis();
   }
 
 
@@ -51,10 +56,9 @@ export class EmojisContainerComponent implements OnInit, AfterViewInit {
   }
 
   // Get recent emojis from localStorage
-  getLocalStorageEmojis() {
+  getEmojis() {
     const value = localStorage.getItem('ionic_emoji_recent') || '""';
     this.emojisStorage = JSON.parse(value) as Emoji[] || [];
-    console.log(this.emojisStorage);
 
     const recentPackToAdd: EmojiPack = {
       categoryName: 'Recent',
@@ -66,12 +70,18 @@ export class EmojisContainerComponent implements OnInit, AfterViewInit {
       ]
     };
 
-    this.allEmojisPacks.unshift(recentPackToAdd);
+    this.allEmojisPacks = [recentPackToAdd, ...emojisPacks as EmojiPack[]]
 
   }
 
   async addEmojiToLocalStorage(emoji: Emoji) {
-    this.emojisStorage.push(emoji);
+
+    // busca el emoji en emojisStorage y si ya lo tiene no lo agrega, pero lo hubica al principio
+    const index = this.emojisStorage.findIndex((item) => item.html_code === emoji.html_code);
+    if (index !== -1) {
+      this.emojisStorage.splice(index, 1);
+    }
+    this.emojisStorage.unshift(emoji);
     localStorage.setItem('ionic_emoji_recent', JSON.stringify(this.emojisStorage));
   }
 

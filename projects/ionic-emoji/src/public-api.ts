@@ -3,5 +3,4 @@
  */
 
 export * from './lib/ionic-emoji.service';
-export * from './lib/ionic-emoji.component';
 export * from './lib/ionic-emoji.module';

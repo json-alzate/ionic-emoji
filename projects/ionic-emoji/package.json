@@ -1,15 +1,15 @@
 {
   "name": "ionic-emoji",
-  "version": "0.2.1",
+  "version": "1.0.1",
   "peerDependencies": {
-    "@angular/common": "^14.2.4",
-    "@angular/core": "^14.2.4",
-    "@ionic/angular": "^6.1.9"
+    "@angular/common": "^15.1.5",
+    "@angular/core": "^15.1.5",
+    "@ionic/angular": "^6.5.4"
   },
   "dependencies": {
     "tslib": "^2.3.0"
   },
   "devDependencies": {
-    "@ionic/angular": "^6.1.9"
+    "@ionic/angular": "^6.5.4"
   }
 }

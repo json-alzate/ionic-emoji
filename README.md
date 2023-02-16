@@ -1,27 +1,87 @@
-# IonicEmojiWorkspace
+# Ionic-emoji
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.1.
+ionic-emoji es una librería que permite mostrar emojis en aplicaciones  creadas con el framework Ionic/Angular.
+Aunque puede ser utilizada en aplicaciones móviles, tiene mas sentido hacerlo en aplicaciones web, donde el selector de emojis no es tan accesible en algunos casos.
 
-## Development server
+<br/>
+<br/>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Instalación
+Para instalar ionic-emoji, simplemente ejecute el siguiente comando:
 
-## Build
+``` 
+npm install ionic-emoji
+```
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Luego, agregue IonicEmojiModule al arreglo de imports de su módulo:
 
-## Running unit tests
+```
+import { IonicEmojiModule } from 'ionic-emoji';
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+@NgModule({
+  imports: [
+    ...
+    IonicEmojiModule,
+    ...
+  ],
+    ...
+})
 
-## Running end-to-end tests
+```
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+<br/>
+<br/>
 
-## Further help
+## Uso
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+En su componente inyecte el servicio EmojiService:
+
+```
+import { IonicEmojiService } from 'ionic-emoji';
+
+
+export class AppComponent {
+  constructor(private ionicEmojiService: IonicEmojiService) {}
+}
+```
+
+Luego, para lanzar el selector de emojis, ejecute el método presentModal:
+
+```
+    this.ionicEmojiService.presentModal().subscribe((emoji) => {
+      if (emoji) {
+        console.log(emoji.symbol);
+        console.log(emoji);
+      }
+    });
+```
+
+<br/>
+<br/>
+
+## Características
+
+- Selector de emojis
+- Buscador de emojis
+- Emojis recientes
+
+<br/>
+<br/>
+
+## Usado por
+
+<br/>
+
+
+![Lulla.care](imgs_docs/lulla.png)
+
+<br/>
+<br/>
+
+## Contribución
+
+Si encuentra un problema o tiene una idea para una nueva característica, no dude en crear un problema o enviar una solicitud de extracción en el repositorio de GitHub de ionic-emoji.
+
+

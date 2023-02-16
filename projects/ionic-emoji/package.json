@@ -1,6 +1,11 @@
 {
   "name": "ionic-emoji",
-  "version": "1.0.1",
+  "version": "1.0.3",
+  "homepage": "https://github.com/json-alzate/ionic-emoji",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/json-alzate/ionic-emoji"
+  },
   "peerDependencies": {
     "@angular/common": "^15.1.5",
     "@angular/core": "^15.1.5",
